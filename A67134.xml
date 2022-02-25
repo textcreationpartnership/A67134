@@ -1,0 +1,882 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A view of the face unmasked, or, An answer to a scandalous pamphlet published by divers ministers and entituled The common prayer book unmasked wherein the lawfulness of using that book is maintained ... : whereunto are added also some arguments for the retaining of that book in our Church ... / by Sam. Wotton ...</title>
+            <author>Wotton, Sam. (Samuel)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 139 KB of XML-encoded text transcribed from 31 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67134</idno>
+            <idno type="STC">Wing W3657</idno>
+            <idno type="STC">ESTC R34766</idno>
+            <idno type="EEBO-CITATION">14627584</idno>
+            <idno type="OCLC">ocm 14627584</idno>
+            <idno type="VID">102694</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67134)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102694)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1082:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A view of the face unmasked, or, An answer to a scandalous pamphlet published by divers ministers and entituled The common prayer book unmasked wherein the lawfulness of using that book is maintained ... : whereunto are added also some arguments for the retaining of that book in our Church ... / by Sam. Wotton ...</title>
+                  <author>Wotton, Sam. (Samuel)</author>
+               </titleStmt>
+               <extent>60 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Newcomb,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages stained.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dwalphintramis. --  Common prayer book unmasked.</term>
+               <term>Church of England. --  Book of common prayer.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:102694:1" rendition="simple:additions"/>
+            <p> 
+               <hi>A View of the Face <g ref="char:V">Ʋ</g>nmasked.</hi>
+            </p>
+            <p>OR, AN ANSVVER TO A Scandalous Pamphlet, publiſhed by divers Miniſters, and Entituled, <hi>The Common Prayer-Book <g ref="char:V">Ʋ</g>nmasked.</hi>
+            </p>
+            <p>Wherein the lawfulneſs of uſing that Book is maintained, by Anſwering their Five (as they boaſt) undeniable Arguments brought againſt it.</p>
+            <p>Whereunto are added alſo ſome Argu<g ref="char:EOLhyphen"/>ments for the retaining of that Book in our Church, from the ſame heads, whereby they plead againſt it; namely,
+<list>
+                  <head>From</head>
+                  <item>The Name of it.</item>
+                  <item>The Original of it.</item>
+                  <item>The Matter contained in it.</item>
+                  <item>The Manner of uſing it.</item>
+                  <item>The Effects of it upon the whole Land.</item>
+               </list>
+            </p>
+            <p>By <hi>Sam. Wotton,</hi> D. D. ſometime Fellow of <hi>Kings Colledge</hi> in <hi>Cambridge.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>Tho. Newcomb<g ref="char:punc">▪</g>
+               </hi> 166<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+            <pb facs="tcp:102694:2"/>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:102694:2"/>
+            <head>TO THE Impartial Reader.</head>
+            <opener>
+               <salute>Chriſtian Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hough I have all my life time hitherto declin<g ref="char:EOLhyphen"/>ed to ſhew my ſelf any ways in this kind; yet now in my laſt dayes, I can no longer keep my ſelf out of the over-burdened Preſs; For having ſeen this Book, not only publickly ſold in <hi>Weſtminſter-Hall,</hi> but alſo reprinted without controll, and no anſwer that I can hear of yet made to it; I thought it better to make this brief An<g ref="char:EOLhyphen"/>ſwer thereto, then to let it ſeduce and abuſe ſo many peo<g ref="char:EOLhyphen"/>ple as might be hurt by it, if it ſhould paſs for ſuch an un<g ref="char:EOLhyphen"/>anſwerable peice, as it is pretended to be. I have therefore ſet down all their arguments, and given plain and direct anſwers to them; their vain extravagancy, and moſt un<g ref="char:EOLhyphen"/>civil railings, I have either wholly paſſed over, or very lightly ſometime touched upon them, that I might neither too much enlarge my Book, nor write in a ſtile ſo contrary to my natural diſpoſition, and ſo unfitting my quality and profeſsion. Firſt then in anſwer to their Epiſtle to the Reader, they tell us there, that <hi>Out of a reſpect to the glory of God, which is a God that will be worſhipped</hi>
+               <pb facs="tcp:102694:3"/> 
+               <hi>in ſpirit and truth; as alſo with a deſire of the Readers eternal good, they preſent this Treatiſe.</hi>
+            </p>
+            <p>To which I ſay alſo, that out of a reſpect to the glory of God, which is not a God of confuſion, but of peace, and ſo <note place="margin">1 <hi>Cor.</hi> 14. 33.</note> of order, without which there is nothing but confuſion, and no true peace; as alſo out of a tender care of the honour and glory of the Church of <hi>England;</hi> and laſtly out of a deſire of thy good, that thou mayeſt not be miſled by faction, ig<g ref="char:EOLhyphen"/>norance and blind zeal, I preſent unto thee this Anſwer to their book, ſet forth in <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ew againſt the Common-Prayer-Book, but in deed and truth againſt the Church of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> as by this anſwer will appear.</p>
+            <p>Secondly, they tell us, <hi>That this Treatiſe was formerly penned by ſome eminent Orthodox Divines, late Non-conformiſts, wherein are ſolid arguments.</hi> Concerning which vain glorious boaſt, for eminency how much ſoever I fall ſhort of them, they being many and I but one, yet for Orthodoxneſs, let any man judge of their writing and my an<g ref="char:EOLhyphen"/>ſwer, to whom that title doth beſt belong; and for their laſt title of late Non-conformiſts, I am more troubled to under<g ref="char:EOLhyphen"/>ſtand what they aim at by it, then to anſwer it; for if they be ſtill <hi>Non-conformiſts,</hi> why do they prefix that word <hi>late,</hi> as implying that now they are not ſo; and if they be no longer ſuch, why or how then do they own ſuch a book now? To that therefore I ſay no more, but hope that my title of preſent conformity ſhall be as well accepted by the indifferent Reader, as theirs of late or preſent difformity.</p>
+            <p>Thirdly they ſay, <hi>That three ſorts of Readers ſhall be helped by this Book, the doubtful ſhall be fully reſolved, the uſers of the Common Prayer Book ſhall be brought off, and the refuſers of it encouraged; not onely be<g ref="char:EOLhyphen"/>cauſe Gods people, but God himſelf miſlikes it.</hi>
+            </p>
+            <pb facs="tcp:102694:3"/>
+            <p> To this I rejoyn that thoſe three ſorts of people ſhall by my anſwer be more profited then by their accuſation; for the firſt ſort, the doubtful, may be hereby reſolved to uſe it; the ſecond ſort which uſe it ſhall be confirmed in their confor<g ref="char:EOLhyphen"/>mity and obedience; the third may be either changed or aſhamed, not onely becauſe humane authority does directly, but Divine authority alſo conſequently command it, by en<g ref="char:EOLhyphen"/>joyning us to obey the powers ſet over us.</p>
+            <p>Fourthly, they preſs the <hi>Covenant as an unaſwerable ar<g ref="char:EOLhyphen"/>gument againſt the book,</hi> To which I anſwer, that the Co<g ref="char:EOLhyphen"/>venant is nothing at all againſt our Common Prayer Book; for we ſhall plainly ſhew when we come to the motive, that neither they which for fear of preſent ruine, did in ſome ſort ſeem to joyn in that Covenant by Tyranuy impoſed on them, nor they which through ignorance or weakneſs of judgement did eaſily and willingly yeild to it, are in any ſort now bound thereby to reject the Common Prayer Book.</p>
+            <p>Laſtly, they tell us, <hi>That their book will inform us of the truth, and if the truth</hi> (as the Scripture ſaith) <hi>make us free, we ſhall be free indeed.</hi>
+            </p>
+            <p>To this I ſay, that my anſwer truely performing that, which they onely promiſe, ſhall bring us out of the darke<g ref="char:EOLhyphen"/>neſs of error in this point, into the light of truth, that be<g ref="char:EOLhyphen"/>ing in the light, we m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y (as the Scripture ſpeaks) walk as children of the light, that is, in obedience to God, by obeying our Governors, which are the Miniſters of God for our wealth. And this freedom of ours does in no ſort come be<g ref="char:EOLhyphen"/>hind <note place="margin">
+                  <hi>Rom.</hi> 13. 4.</note> that of theirs; for hereby we are the ſervants of God<g ref="char:punc">▪</g> whoſe ſervice (as with our book in our daily Collect we con<g ref="char:EOLhyphen"/>feſs) is perfect freedom. This freedom we ſhall ever pray for, but freedom from government, diſcipline, order, decency, or whatſoever other freedom in that kind they mean, we neither deſire our ſelves, nor (as we hope) ſhall they ever attain to that, moſt of all deſire it. So deſiring
+<pb facs="tcp:102694:4"/> thee (equal Reader) to weigh their bare arguments, with my plain anſwers, and to let their railings, revilings, trou<g ref="char:EOLhyphen"/>ble thy head no more then they have done my pen, I com<g ref="char:EOLhyphen"/>mit thee to Gods bleſsing, in this, and all thy Chriſtian en<g ref="char:EOLhyphen"/>deavors, and reſt</p>
+            <closer>
+               <signed>Thine in the Lord S. Wotton.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="pamphlet">
+            <pb n="7" facs="tcp:102694:4"/>
+            <head>A View of the Face Unmasked.</head>
+            <div n="1" type="chapter">
+               <head>CHAP. I. <hi>To the Preface.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">H</seg>Ere they begin with a mentioning of Loy<g ref="char:EOLhyphen"/>alty, telling us, That</p>
+               <p>
+                  <hi>As Loyalty is the very Fortreſs of Poli<g ref="char:EOLhyphen"/>cy; ſo pure Religion is the Fountain and Root of Loyalty; yea, Equity, Charity, Sobriety, and Loyalty, are the Virgin-Daughters of unſpotted Piety.</hi>
+               </p>
+               <p>Had they as much Loyalty in their hearts, as in their mouths, never would they have preſumed now, eſpecially in theſe days, to reprint this Pamphlet, ſo bitterly and ſordidly inveighing againſt a Book by Law and Authority ſet forth ſo long ago, and now allowed by His Royal Majeſty, and conſtantly read before Him in His Sa<g ref="char:EOLhyphen"/>cred Chappel. But as the Lord ſaid of the <hi>Jews,</hi> ſo may the King of theſe: They have Loyalty and Obedience in their <note place="margin">Iſai. 29. 23.</note> mouths, but in their actions they are far from it. And if as they tell us, Pure and undefiled Religion be the Fountain of Loy<g ref="char:EOLhyphen"/>alty; and Equity, Charity, Sobriety, and Loyalty be the Virgin-Daughters of unſpotted Piety: Let them take heed, that the want of theſe four, which they abundantly diſcover in their Book, do not out of their own mouth condemn the pretend<g ref="char:EOLhyphen"/>ed Purity of their Religion; for more then ordinary defects
+<pb n="8" facs="tcp:102694:5"/> in theſe, ſhall this anſwer abundantly ſhew in their Book. But they will not be large, as they ſay, here in this theme, no more will I: But I haſten with them to the p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rticular <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tter, <hi>viz. The Common Prayer Book,</hi> the Principal Subject of their diſ<g ref="char:EOLhyphen"/>courſe, but in which they aim and ſtrike at the Biſhops, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s they pre<g ref="char:EOLhyphen"/>ſently confeſs; upon this ſuppoſal, that one of theſe two cannot ſtand without the other; for ſo they tell us, ſaying,</p>
+               <p>As it is true, <hi>That no Ceremony, no Biſhop; ſo it is as true, That no Service-Book, no Ceremony.</hi> This they do very well bring in with this, <hi>As</hi> and <hi>So;</hi> for one of theſe is juſt as true as the other, there being no truth at all in the one, or the other: For the Biſhops might ſtill have their Authority, Dignity, and Eſtates which they now have, though all the Ceremonies we have were aboliſhed; and we might alſo have more Ceremo<g ref="char:EOLhyphen"/>nies then now we have, though we had another <hi>Common Prayer Book,</hi> or none at all; which is too clear, to have any place left for proof.</p>
+               <p>The next Page of this Chapter, is an inveighing againſt Su<g ref="char:EOLhyphen"/>perſtition in general: Concerning which, I will meddle no more with them, then they do therein with our <hi>Common Prayer Book;</hi> for I am as much againſt Superſtition as they<g ref="char:punc">▪</g> But nothing ſaid againſt Superſtition can be againſt the Book, till the Book be proved Superſtitious. Which that it is, they attempt to prove in theſe words very couragiouſly.</p>
+               <p>
+                  <hi>If our Liturgy be not a maſs of Superſtition <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſuperſtitious Ceremonies, we know not what Superſtition is.</hi>
+               </p>
+               <p>To which Propoſition, if they will let me aſſume rightly, thus; But our Liturgy is not a maſs of Superſtitions, &amp;c. I grant all; and for their Information, will tell them a little, That it is Super<g ref="char:EOLhyphen"/>ſtition to make that a matter of Conſcience which they need not, or to make that a part of Gods worſhip and ſervice which is not ſimply ſo but a thing of it ſelf indifferent, Whether then it be Superſtition to uſe our Book and Ceremonies, becauſe commanded, or to reject them upon a pretence of their being not indifferent, but ſimply unlawful, when God hath not for<g ref="char:EOLhyphen"/>bidden them, and the Church hath commanded them, let Rea<g ref="char:EOLhyphen"/>ſon judge.</p>
+               <p>But to proceed with them, they endeavor to prove the <hi>Common Prayer</hi> to be ſuperſtitious, becauſe it appoints kneeling at the Communion, thus;</p>
+               <pb n="9" facs="tcp:102694:5"/>
+               <p> The grand ceremony of adoration or kneeling at the Com<g ref="char:EOLhyphen"/>munion, hath it not been the ſtaffe and ſtrength of that abomi<g ref="char:EOLhyphen"/>nable Idole the breaden God? In which words with the reſt there following, they charge us in kneeling to agree with the <hi>Lutherans</hi> and Papiſts in this point, concerning the matter, but leaving the manner.</p>
+               <p>We anſwer, That we neither ſuppoſe <hi>Lutherane</hi> Conſubſtan<g ref="char:EOLhyphen"/>tiation, nor Popiſh Tranſubſtantiation hereby, but we deny both; and ſo does our book, as by the words and form of Ad<g ref="char:EOLhyphen"/>miniſtration in the book is clear enough. Neither is our kneel<g ref="char:EOLhyphen"/>ing any adoration of the creature, as they would have it ſup<g ref="char:EOLhyphen"/>poſed, but the moſt fit and convenient geſture that can be uſed in the time of Prayer, which we are all in at the very receiving of that bleſſed Sacrament, as is plain enough by the very words uſed at the delivering it. Now if any particular man ſeem to theſe men to incline too much towards Popery in this point, that is nothing to our Common Prayer Book, the defence whereof is my onely task; whatſoever therefore may be ſaid in any parti<g ref="char:EOLhyphen"/>cular mans defence I paſs by; Therefore alſo I omit the menti<g ref="char:EOLhyphen"/>oning of the Liturgy which they talk of ſent to <hi>Scotland,</hi> with all the Chimerical conceits of their Engliſh brain concerning that which they call the Scottiſh Hydra.</p>
+               <p>Laſtly, Whereas they tell us,</p>
+               <p>The ſuperſtitions of this book are ſuch, and ſo many, that if <hi>Paul</hi> were here and ſaw them, as he ſaw that of <hi>Athens,</hi> he would cry out undoubtedly, ye are too ſuperſtitious, <hi>Act.</hi> 17. 22.</p>
+               <p>We ſay no more to this, but if that we may preſume to know St. <hi>Pauls</hi> minde as well as they, we may better ſay, That which he appointed to the <hi>Corinthians,</hi> 14. 40 that have we obſerved in our Liturgy. But that we may not ſtand too long upon theſe general extravagancies in their preface, let us come to the parti<g ref="char:EOLhyphen"/>cular charges againſt that Book to which they are ſuch adverſa<g ref="char:EOLhyphen"/>ries; the firſt whereof is the Name in the next Chapter.</p>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="10" facs="tcp:102694:6"/>
+               <head>CHAP. II. <hi>To the Name.</hi>
+               </head>
+               <p>THe ſcope of this Chapter is to prove our Common Prayer Book unlawful, becauſe it hath the ſame name with the Popiſh Maſs book; which that it hath, they prove thus in the be<g ref="char:EOLhyphen"/>ginning of the Chapter.</p>
+               <p>The Service-book men, and the Papiſts do mutually inter<g ref="char:EOLhyphen"/>change the name of Liturgy and Maſs; the later calling their Maſs by the name of Liturgy, and our men owning the name of Maſs to our Service Book, witneſs <hi>Pocklington, Cozens,</hi> and <hi>Montague;</hi> in the name then is an unaminous agreement; If theſe men can be aſhamed of any thing, they may be aſhamed of this ridiculous caviling with our Common Prayer Book in this kind. If ſome men ſhould call them ſchiſmaticks, make-bates, ſowers of ſedition, rebels, <hi>&amp;c.</hi> would they count this to be a ſuf<g ref="char:EOLhyphen"/>ficient argument, to cauſe them to be baniſhed out of our Land, or caſt out of our Church? If they would think this hard meaſure againſt themſelves, where is their equity in dealing thus with others? Here me thinks Dame equity the firſt of the Virgin daughters mentioned in their preface, is fouly vitiated, and ſo there is a ſore blemiſh laid upon their unſpotted piety the mother hereof. Secondly, if this were granted, that the names were the ſame abſolutely in both, is the name enough to deſtroy the thing? If they be offended (as many we know are) in the places of Gods worſhip among us, as well as with the manner of our worſhipping there, they have the ſame argument for demoliſh<g ref="char:EOLhyphen"/>ing of them; for Papiſts call their Churches as we do ours. If they be angry with St. <hi>Jude</hi> for ſpeaking againſt railers upon them that are in authority, they may as well cry down all he ſaith by this argument of the name, becauſe he hath the ſame with <hi>Iſcariot</hi> the traitor. But being conſcious to themſelves (I pre<g ref="char:EOLhyphen"/>ſume) of the vanity of this argument (though perhaps ſome ſimple one may be ſeduced by it) they quickly flye from the name to the thing, and tell us that for matter they are one.</p>
+               <p>What difference (ſay they) is there between our Liturgy and theirs, but a pair of ſheers, and putting ours in a coat of ano<g ref="char:EOLhyphen"/>ther
+<pb n="11" facs="tcp:102694:6"/> tongue, ours having nothing to a word but out of theirs?</p>
+               <p>All which is very unſeaſonably ſtuffed into this preſent Chap<g ref="char:EOLhyphen"/>ter; for this belongs to the next Chapter, concerning the matter and the original, and not to this of the name; and therefore they promiſe to ſhew this more abundantly hereafter, to which when we come we ſhall anſwer accordingly; in the mean time to follow their immethodical manner of proceeding: I anſwer for the preſent, that firſt this accuſation is falſe; for where can they ſhew in the Maſs book our thankſgivings for deliverance from the plague, for victory over our enemies, for rain, for fair weather, <hi>&amp;c?</hi> Secondly, If every word in ours were in the Maſs book, yet as long as all that is evil in the Maſs book is left out in ours, what is that which is good in ours the worſe for be<g ref="char:EOLhyphen"/>ing in the Maſs book? If that good thing in that book, is ſo pol<g ref="char:EOLhyphen"/>luted by being there among the evil, that it can be good nowhere elſe? what will they ſay to all the texts of Scripture read in that book? muſt they be expunged out of our Bibles becauſe they are taken into the Maſs book? Let any man judge of this arguing. But to return with them back again to the name, they ſay,</p>
+               <p>
+                  <hi>Names are the very images of things; and there being an una<g ref="char:EOLhyphen"/>nimous agreement, as in the names, ſo in the things; what reaſon is there that we ſhould groan ſtill under the burden of a Liturgy born in upon us, under the name and nature of a Maſs?</hi>
+               </p>
+               <p>The aſſertion here is to no purpoſe, except the names do truely ſet forth the nature of the things. To the queſtion we anſwer, that we do not at all groan under ſuch a burden; for neither is the book any ſuch burden, as in my anſwer ſhall ap<g ref="char:EOLhyphen"/>pear; neither does our book own any ſuch name. Next then after a railing diſcourſe, they ask a company of queſtions, which being truely anſwered, the anſwer would be very unpleaſant to them; for they ask,</p>
+               <p>
+                  <hi>Who hath caſt the State into this conſumption of mony? who hath made the heart to ake, and the ſouls to groan of honeſt houſeholders,</hi> &amp;c? <hi>Who have cauſed the Kings leige people for obeying the Laws of God and man, to be carried to ſtifling priſons? who cauſed ſome to be tortured,</hi> &amp;c? <hi>who have been the Incendiaries and firebrands to melt away the Kings love to his Subjects, and their true loyalty to the King?</hi>
+               </p>
+               <p>To all theſe queſtions of theirs, they might have added one
+<pb n="12" facs="tcp:102694:7"/> more, Who have ſo horribly murdered their King and many thouſands of his ſubjects? To all theſe queſtions, Whither the defenders of the Common Prayer book, or the oppoſers of it, muſt be anſwered, let the whole world judge, and let them like the anſwer as they pleaſe, and deny it as they can; I will appeal to others, and be ſilent my ſelf in this point. The reſt of this Chapter, till they come to their Syllogiſm, is nothing but railing, which I paſs by; onely concerning one paſſage therein, where they ſpeaking of the Scots riſing up in arms, they conclude with this exhortation, <hi>
+                     <g ref="char:V">Ʋ</g>p in the name of the Lord and do the like.</hi>
+               </p>
+               <p>Here I muſt needs ask them Whither this ſpeech ſavour of loy<g ref="char:EOLhyphen"/>alty or rebellion? If this were not a direct incitement to rebel<g ref="char:EOLhyphen"/>lion, let the world judge. Here then we ſee Lady Loyalty the fourth of the Virgin daughters ſo notorious, that we cannot but condemn the mother of impious treaſon inſtead of commending her for unſpotted piety; but that fire of rebellion through the infinite mercy of God being now quenched, I will not rake into the aſhes of it, but come to their Syllogiſm.</p>
+               <p>
+                  <hi>We muſt not name an Idol but with deteſtation, much leſs are we to offer it as a worſhip of God: But the Service book is an idol There<g ref="char:EOLhyphen"/>fore we are not to name it,</hi> &amp;c.</p>
+               <p>The Propoſition in this ſyllogiſm, which no man will deny, they labor to prove by ſeveral texts of Scripture, which I paſs as brought to no purpoſe. The aſſumption which ſhould be throughtly proved, they promiſe to prove in the next point, where I promiſe alſo (God willing) to anſwer their proofs; and to that which they brag to be already granted, that our Service book is a Maſs book, I have already diſproved.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III. <hi>To the Original.</hi>
+               </head>
+               <p>IN this Chapter they begin with a Syllogiſm, and fall to their idle extravagancies afterward, quite contrary to their courſe in the former Chapter.</p>
+               <p>
+                  <hi>That whoſe original and riſe is naught, muſt needs be naught in it ſelf: But ſuch is our Service book: Therefore it is naught.</hi>
+               </p>
+               <pb n="13" facs="tcp:102694:7"/>
+               <p> The Propoſition they ſeem to prove, by ſaying thus, Can there come clean water out of a corrupt fountain? The aſſumption they would prove, by proving our book to be taken wholly from the Maſs book and other Popiſh peices. This they endeavor to prove in this Chapter three ſeveral wayes. 1. By comparing the books. 2. By the mutual liking that our Liturgy Maſters, as they call them, and the Maſs book men have one of anothers piece. 3. From the evidence given from the Kings Counſel of <hi>England;</hi> moſt of his Chapter is ſpent in thoſe three laſt proofs of the Aſſumption. The Propoſition they ſtrive not to prove any further. And yet if that be falſe, the whole argument is nothing worth. To that therefore I anſwer firſt, and deny the truth of it ſimply, and in it ſelf; for it is then onely to be granted as true when the original is wholly and abſolutely evil without any good in it; but if there be a mixture of good therein as well as evil, that which ariſeth from that part which is good may be good, as well as that which ariſeth from that evil is evil. If then there be any good in the Maſs book, and that onely our book takes from thence, wholly rejecting all the evil, it cannot follow that our book muſt be evil though taken thence, any more then a Pearl or precious ſtone muſt be naught, if raked out of a dunghill. For the objection againſt this; that the Caſe is different, becauſe that Pearl or ſtone was not bred in the dung<g ref="char:EOLhyphen"/>hill; We anſwer that is nothing againſt us.</p>
+               <p>For firſt, Thoſe good things which we have in our book, and are alſo in the Maſs book, were not bred there, but taken out of the Scriptures, Fathers, or Ancient Liturgy of the Church, and put in theirs.</p>
+               <p>Secondly, A thing bred in that which is evil in that ſenſe we ſpeak, that is not totally evil, may be good, coming from evil, as the precious ſtone in the head of a Toade is not venemous though the Toad be. But for their inſtance of the fountain, it is very unſufficient and unfit in this caſe; becauſe though the foun<g ref="char:EOLhyphen"/>tain were not totally evil, yet the evil and good in the water is ſo mixed, that one cannot be ſevered from the other in the flow<g ref="char:EOLhyphen"/>ing out; but in collecting good things out of a book where are alſo evil, and more evil then good, the caſe is very different, and the work eaſie.</p>
+               <p>This their Propoſition then being thus unſound, what proof ſoever they make of that which follows, their concluſion cannot
+<pb n="14" facs="tcp:102694:8"/> hold; yet I am content to take a view of the triple proof of their Aſſumption alſo: The firſt whereof is from the comparing of the Maſs book, and our Common Prayer Book together: Be<g ref="char:EOLhyphen"/>tween which they pretend there is ſuch a conſent, that every piece and parcell of our Book is taken from thence; but the fal<g ref="char:EOLhyphen"/>ſity of this we ſhewed in the former Chapter, in which they ſpake of this matter, and named there what we have in our book, which the Maſs book hath not. And we add now, That if we had never a word but what is there, yet we having none of the evil that is there, it cannot follow that ours muſt be evil, for having in it ſomewhat that is there. Secondly, For the <hi>mutual complacency</hi> they talk of, I anſwer that to accuſe all that like our Liturgy, to be likers alſo of the Maſs, is ſo ſhameleſs and foul a ſlander, as none can be more. And of the other ſide for the Papiſts approving of our Liturgy, it is more a commendation of it then otherwiſe, it arguing our Service to be ſo good, that our very adverſaries, which in all things elſe are ſo bitter againſt us, yet can ſay nothing againſt that: Whereas therefore they ſay, <hi>That if the Papiſts like it, it cannot be good, becauſe they are againſt all good.</hi>
+               </p>
+               <p>I anſwer, This is intolerable; for thus they may as well condemn much of our Doctrine, as well as our Liturgy; as namely, all Divine and neceſſary Truths which we hold and teach concerning the Unity of Eſſence, and Trinity of perſons in the Divine Na<g ref="char:EOLhyphen"/>ture; all the Artributes of God; and in a word all the firſt part of Divinity in <hi>Thomas,</hi> wherein we and the Papiſts have hardly any difference. So then this ſecond argument makes more for our book then againſt it. All thoſe ſound parts and doctrines in Divinity, which we with them held joyntly, not having their Original from them or their writings, but from the Scriptures, whence we and they alſo took them.</p>
+               <p>The reſt of the words which they uſe in this Chapter concern<g ref="char:EOLhyphen"/>ing this ſecond argument, as having nothing in them, but foul and ſhameful expreſſions of their rancorous and m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>licious hearts againſt all thoſe that are not of their ſtrain, I paſs over as nothing to purpoſe for the buſineſs we have in hand; And ſo I come to the laſt evidence they bring againſt us which they call, <hi>The unde<g ref="char:EOLhyphen"/>niable teſtimony of the King,</hi> namely of King <hi>Edward</hi> the ſixth, <hi>and of his councel;</hi> Where they bring in a piece of a letter, tell<g ref="char:EOLhyphen"/>ing us, <hi>they have the reſt by them,</hi> which may be as true as all
+<pb n="15" facs="tcp:102694:8"/> they ſay elſe; but granting all they ſay; if the King and State, to draw the Papiſts back to us, and win them to our Church, did write to that purpoſe; what is that to the prejudice of our Litur<g ref="char:EOLhyphen"/>gy, as long as all the evil in the Maſs book is left out in ours? If ours be no new Service but the old, and what is in ours be theirs, to aſſure the Papiſts hereof muſt needs be an eſpecial argument to move the Papiſts not to abhor our Churches, but too frequent them and joyn with us in our Liturgy, though perhaps they can<g ref="char:EOLhyphen"/>not reſt ſatisfied with it, but will privately have their own Maſs beſides it alſo.</p>
+               <p>Thus I have done with their third proof alſo. Now their Syl<g ref="char:EOLhyphen"/>logiſm made hereupon is this.</p>
+               <p>
+                  <hi>That which is word for word out of the Popiſh Maſs book, is not to be offered to God as a worſhip, but to be aboliſhed as abomination to him. But the Liturgy in controverſie is ſo, as hath been abundantly proved: Therefore is not to be offered, &amp;c.</hi>
+               </p>
+               <p>To this we anſwer briefly; That which they here brag to be proved to the full, we have by our anſwer ſhewed to be utterly falſe. For if there be any thing in the Maſs not in ours, as abun<g ref="char:EOLhyphen"/>dantly there is; or any thing in ours not in theirs, then is not ours word for word out of theirs. But both theſe we have al<g ref="char:EOLhyphen"/>ready ſhewed, and ſo their argument is fully anſwered. Vainely therefore do they ſpend ſo many words following by ſeveral places of Scripture to prove that which no man denies. And as needleſs is their following Invective againſt the Maſs which we de<g ref="char:EOLhyphen"/>fend not; and to no purpoſe concerning this buſineſs, is their anſwering two texts of Scripture uſed in defence of the Maſs by the Papiſts; all which words helping onely to fill up their book, and nothing touching our Common Prayer Book, I paſs by.</p>
+               <p>One onely thing more have I to add concerning this Chapter, that for the original of our Common Prayer book, whereas in this whole diſcourſe thereof, they ſeem to ſuppoſe that we went to the Maſs and no further, to frame a Liturgy from thence; this is a meer fancy of theirs; we follow the old Liturgy before the Popiſh Maſs; but the truth is, when we having been a long time with the Maſs amongſt us, and other Idolatrous ceremonies very notoriouſly faulty in the worſhip of God, did according to our duties begin to reform our ſelves, we did onely caſt off ſuch things as were inevitably offenſive, and did retain the reſt; con<g ref="char:EOLhyphen"/>cerning which, whereas they tell us <hi>It was great incogitancy</hi>
+                  <pb n="16" facs="tcp:102694:9"/> 
+                  <hi>(to ſpeak the leaſt) in our Reformers in King Edwards days, to take a Monke from among the Canaanites, &amp;c.</hi>
+               </p>
+               <p>We anſwer for thoſe our holy Anceſtors, that they took the moſt adviſed, pious and Chriſtian courſe that could be taken in that kind. For firſt, hereby they took the moſt likely courſe that could be thought on to draw many of the Papiſts to our Re<g ref="char:EOLhyphen"/>ligion, wherein we departed no farther from them then they had firſt departed from the word of God; all other things we ſtill re<g ref="char:EOLhyphen"/>tained, that they that would but reform notorious abuſes, might ſtill retain fellowſhip with us. Secondly, they hereby declared ſufficiently to all the world, that this alteration made, was neither out of hatred to them, or love of novelty, or ſingularity, or any high conceit of any excellency in fancies, or devices of our own brains above our forefathers, but would be content with what we had from them, as far as it was conſonant to the word of God, or not contrary to it. Thirdly, by this means they avoided com<g ref="char:EOLhyphen"/>buſtion in Church and State, making as little ſtir or noiſe as could be in the reformation which is always eſpecially to be regarded by all quiet ſpirits and lovers of peace in any change whatſoever. Fourthly, by this dealing they followed the Apoſtles rule by ſhewing their <hi>meekneſs, ſoftneſs and gentleneſs to all men,</hi> as is re<g ref="char:EOLhyphen"/>quired. So that retaining thus much of the Maſs book when we <note place="margin">Phil. 4. 5.</note> caſt off Popery, was ſo far from incogitancy, or any other ſcan<g ref="char:EOLhyphen"/>dal to be layed upon our forefathers, that we may rather admire, or at leaſt muſt much commend their wiſdom, meekneſs, love of peace, and charitable deſire of converting others thereby. For the concluſion then of this Chapter, wherein they brag ſo much of ſucceſs, telling us, That</p>
+               <p>
+                  <hi>It will fall out, as it did with the Scribes and Phariſes, envying that the people ſhould follow Chriſt. Perceive ye not</hi> (ſay they) <hi>how ye prevail nothing? the world is gone after him,</hi> Joh 12. 19. <hi>It is ſo in this caſe of the worſhip of Chriſt,</hi> &amp;c. <hi>We ſhall prevail no<g ref="char:EOLhyphen"/>thing,</hi> &amp;c.</p>
+               <p>To this we need not anſwer any thing to them; the times (we humbly praiſe God for it) have anſwered for us; this book which was ſo long caſt off, being now generally taken up again, and uſed with reverence, devotion, and thankfulneſs to the Lord for it in the moſt principal places and moſt Cuurches of this Kingdom, ſo that the ſaying they cite there of the Phariſees and Scribes, may better be applyed to theſe people that cite in it then to thoſe to <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="17" facs="tcp:102694:9"/>
+               <head>CHAP. IV. <hi>Of the Matter.</hi>
+               </head>
+               <p>HEre they inveigh againſt the Common Prayer Book in re<g ref="char:EOLhyphen"/>ſpect of the matter of it, telling us that</p>
+               <p>
+                  <hi>The matter is partly falſe, partly ridiculouſly frivolous, yea and ſome part of it is not without a tincture of blaſphemy.</hi>
+               </p>
+               <p>The firſt of theſe charges they go about to prove three ways, ſaying,</p>
+               <p>
+                  <hi>For the general we lay down theſe three inſtances, In falſe or cor<g ref="char:EOLhyphen"/>rupt tranſlations of the word, additi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ns to the word, and ſubſtracti<g ref="char:EOLhyphen"/>ons; all which the Service Book not onely allows, but injoyns ſub<g ref="char:EOLhyphen"/>ſcription to them.</hi>
+               </p>
+               <p>To theſe things we anſwer, firſt in general, that it is no ſuffici<g ref="char:EOLhyphen"/>ent plea againſt the book to cry it down wholly, for ſome parti<g ref="char:EOLhyphen"/>cular defects in it, but to deſire rather to have thoſe things amen<g ref="char:EOLhyphen"/>ded, then the whole book, ſo excellent in ſeveral reſpects, totally to be aboliſhed, for ſome imperfections in it. Secondly, to come to them more particularly, to the firſt of falſe tranſlations, we anſwer. 1. That if that be ſufficient for a particular place to re<g ref="char:EOLhyphen"/>ject a whole book or volum, what ſh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll become of our Engliſh Bible in the laſt and beſt tranſlation that we have? for in that we ſhall find ſuch a tranſlation as no Engliſh man can make ſenſe of, namely <hi>Phil.</hi> 1. 21. which words there agree with the Latine, which theſe men are ſo much againſt; for it is there <hi>Vivere eſt mihi Chriſtus;</hi> to me to dye is Chriſt; but neither that Latine nor the Engliſh can expreſs either the Apoſtles meaning, or can in<g ref="char:EOLhyphen"/>deed be underſtood what they mean themſelves. They put the Greek verbatim into Engliſh, which the idiome of our tongue cannot bear; and herein they reject <hi>Calvin,</hi> and <hi>Beza's,</hi> and <hi>Junius,</hi> and <hi>Tremilius</hi> tranſlations, and agree with the Vulgar Latine; yet no man wholly rejects this our new tranſlation, as containing falſe matter, but it is not unworthily eſteemed as one of the beſt tranſlations extant in any language. Again that word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, 1 <hi>Cor.</hi> 11. 29 is in both our tranſlations rendred <hi>Dam<g ref="char:EOLhyphen"/>nation,</hi> which is neither according to the ſignification of the word in it ſelf, nor according to the Apoſtles meaning in that
+<pb n="18" facs="tcp:102694:10"/> place, for he proves that which he ſaith there in the words fol<g ref="char:EOLhyphen"/>lowing, directly mentioning <hi>temporal judgement,</hi> as <hi>verſ.</hi> 30. But I will not ſtrive to defame our tranſlations, as they do our Common Prayer Book by ſearching how many places are not ſo tranſlated as they ſhould be; but were there more defects then there are, who could hereupon reject totally our Engliſh Bibles, as theſe do our Service Book, upon that ſcore of falſity in matter, through ſome imperfections in the tranſlation?</p>
+               <p>Secondly, then I paſs to the next particular which they call <hi>ad<g ref="char:EOLhyphen"/>ditions.</hi>
+               </p>
+               <p>To add to the word of God in general, as to propound any thing for Gods word, which is not ſo indeed, I grant to be abo<g ref="char:EOLhyphen"/>minable; but to add to any particular part of Scripture ſome words taken out of ſome other part of Scripture, is no addition to the word of God; for it does not affirm any thing to be Gods word which is not indeed. Now of this kind are the additions they ſpeak. In <hi>Pſalm.</hi> 14. the words in the end added, are not onely taken out of Gods word in ſeveral places, but alſo all collect<g ref="char:EOLhyphen"/>ed together by Saint <hi>Paul,</hi> and added to the precedent words in this <hi>Pſalm,</hi> as we ſee <hi>Rom.</hi> 3. 13, 14, 15, 16, 17, 18. neither are thruſt into the <hi>Pſalm</hi> by the compoſers of the Common Prayer book, but are in the old Latine Bibles whence thoſe Pſalms were tranſlated; and how reaſonably and fitly they are there, our Bibles do note after the end of <hi>Pſal.</hi> 14. where they ſhew why they are not put into our Bibles. For the next addition mentioned in <hi>Pſal.</hi> 13. what is that but a concluding of that <hi>Pſalm,</hi> with the very words of Scripture alſo? for the ſame expreſſion we find in two other <hi>Pſalms</hi> near adjoyning, <hi>viz. Pſal.</hi> 7. 17. &amp; <hi>Pſal.</hi> 9. 3.</p>
+               <p>For the third addition it is an addition of their own making, not found in the book in that 24. <hi>Pſalm.</hi>
+               </p>
+               <p>Whereas therefore they ſay laſtly, <hi>That they will not reckon di<g ref="char:EOLhyphen"/>verſe additions more,</hi> they do well in that point; but they had done better if they had not reckoned this neither, unleſs there had been more truth in it. I alſo will add no more of this mat<g ref="char:EOLhyphen"/>ter, but come to their next accuſation, which is concerning <hi>ſub<g ref="char:EOLhyphen"/>ſtractions or omiſſions.</hi> And therein firſt they accuſe us <hi>for omit<g ref="char:EOLhyphen"/>ting the titles of diverſe Pſalms.</hi> Secondly, for omitting the words <hi>(Praiſe ye the Lord)</hi> Thirdly, for omitting the <hi>concluſion in the Lords Prayer.</hi> For which laſt; Firſt, if we took the Lords Prayer out of <hi>Luke</hi> 11. we omit none of it; and why may we
+<pb n="19" facs="tcp:102694:10"/> not uſe it ſometime as it is in one place, ſometime as it is in ano<g ref="char:EOLhyphen"/>ther? ſo that the cavil is onely for want of a better; for the two former omiſſions, the book makes no omiſſion, but renders the <hi>Pſalms</hi> as it found them in the tranſlations whence they were taken. Their laſt omiſſion is, <hi>Leaving out many Chapters and ſome whole books unread for the Leſſon, in the Kalender appointed.</hi> But this is not taking away any thing from the word of God, ex<g ref="char:EOLhyphen"/>cept the book did profeſs, that it hath appointed the whole word of God to be read for the Leſſons; but this the book does not, only it appoints ſuch parts of the word of God to be read at ſuch times, and leaves the reſt to be read of the people privately. The next thing is, the <hi>reading of the Apochrypha,</hi> very immetho<g ref="char:EOLhyphen"/>dically brought in here; for that ſhould rather have come in a<g ref="char:EOLhyphen"/>mong the additions, then the omiſſions, yet it is not any addition to the word of God; for we read it not as a part of Scripture to build our faith upon, or to eſtabliſh any doctrine of divinity thereby, but for moral inſtruction; then if they ask <hi>What need of that, the Scripture being ſufficient for that alſo?</hi> We anſwer, that we do it not as ſuppoſing defect therein, but becauſe they are books written by holy men, and have been continually read pub<g ref="char:EOLhyphen"/>likely by the Church of God, in reverence thereto we thought not fit wholly to reject them, or caſt them out of our Church; but whereas they tell us here, <hi>That ſome things are appointed to be out of them which are utterly falſe:</hi> We tell them that is more then they can prove to be true; but if any of them be to read any ſuch Chapter at any time, which he counteth not to be profitable to be read to the people, he may read one out of the New Te<g ref="char:EOLhyphen"/>ſtament inſtead of it: as Dr. <hi>Sparke</hi> ſhews concerning this mat<g ref="char:EOLhyphen"/>ter in his brotherly perſwaſion to unity and uniformity, <hi>Chap.</hi> 10. whether for brevity ſake in this treatiſe, I refer any reaſonable man, adding onely thus much, that if thoſe and ſuch other ob<g ref="char:EOLhyphen"/>jections ſeem to any man not to be ſufficiently anſwered, yet they cannot make the book wholly to be rejected, but needfull in ſome particulars to be corrected and amended.</p>
+               <p>The next thing they come, is the <hi>grand accuſation againſt E<g ref="char:EOLhyphen"/>piſtles and Goſpels;</hi> which I preſume belongs to their ſecond head of frivolous things; for though they began orderly with the firſt particular of falſe matters, yet they proceed not ſo; but I muſt be forced to follow them as they go up and down from one thing to another. Concerning Epiſtles and Goſ<g ref="char:EOLhyphen"/>pels
+<pb n="20" facs="tcp:102694:11"/> then they have three weighty charges, with which they begin thus.</p>
+               <p>
+                  <hi>We may ſubjoyn that profaning groſs abuſe of Epiſtles and Goſpels in which there are three ſtrange and remarkable occurrences, for which there is no ground or reaſon but from the Maſs-book. Firſt,</hi>
+               </p>
+               <p>Theſe three remarkable things are. 1. <hi>That the Acts of the Apoſtles, and ſome books of the old Teſtament, are read for, and called Epiſtles.</hi> 2. <hi>That we read not whole Chapters, but ſcraps and ſhreds,</hi> as they diſgracefully call them. 3. <hi>That at the Epi<g ref="char:EOLhyphen"/>ſtles there is ſilence, ſitting,</hi> &amp;c. <hi>at the Goſpels, ſtanding, ſcraping, bow<g ref="char:EOLhyphen"/>ing, and reſponds before and after.</hi>
+               </p>
+               <p>To the firſt of theſe concerning the name of Epiſtles given to books, not ſo called in Scripture. What great matter is this to be ſet out under thoſe words of profane and groſs abuſe? For firſt we know, the old Teſtament is in the new ſometime called the Law and the Prophets, ſometimes the Law, Prophets, and Pſalms. Theſe ſeveral expreſſions ſhew, that the word Prophets is ſome<g ref="char:EOLhyphen"/>times largely taken for all the old Teſtament, except the five books of <hi>Moſes,</hi> ſometime more ſtrictly for the other books onely; but excluding the <hi>Pſalms,</hi> why then alſo may not the word Epiſtles be ſometime taken generally for all the Scripture, except the four Goſpels, and ſometimes more ſtrictly, except the Acts, Goſpel and Revelation; and ſometime moſt ſtrictly for thoſe books which we commonly call the Canonical Epiſtles? ta<g ref="char:EOLhyphen"/>king the word in the two former acceptions, what hurt in calling all that we read for Epiſtles by the name of Epiſtles, eſpecially conſidering, ſecondly, that the whole Scripture is a letter or Epi<g ref="char:EOLhyphen"/>ſtle indited by the Holy Ghoſt, and ſo ſent from God by the ho<g ref="char:EOLhyphen"/>ly writers thereof into the world, or more eſpecially to his Church; and the fitneſs of this appellation they themſelves con<g ref="char:EOLhyphen"/>feſs, and tell us, <hi>The holy fathers ſpake ſo;</hi> onely they tell us, <hi>They ſpake ſo in a different ſenſe from us,</hi> which difference if they had ſhewed we had either anſwered them, or yelded to them.</p>
+               <p>To their ſecond accuſation, <hi>That our Epiſtle and Goſpels are but ſcraps of Scripture, and never a full paſſage in them.</hi> If by full paſſage they mean a whole Chapter, we deſire to know why a whole Chapter muſt always be at once, and neither more nor leſs? but if by never a full paſſage they mean that we break off abruptly in reſpect of the matter read, then any one may ſee
+<pb n="21" facs="tcp:102694:11"/> they do us notorious wrong, and the Book anſwers for it ſelf without my help. To avoid therefore the guilt of ſo foul a ſlan<g ref="char:EOLhyphen"/>der, I am willing to take them in the former ſenſe, but muſt with<g ref="char:EOLhyphen"/>al tell them, that ſo they may as well accuſe all our Preaching of this groſs abuſe, and ſay we preach not upon the Word of God, but upon ſcraps and ſhreds of it, and that leſs ſhreds too then the other; few Texts being half the length of the very ſhorteſt Epi<g ref="char:EOLhyphen"/>ſtles we have. But why either our Texts, or Epiſtles, and Goſpels, ſhould be thus taxed, I ſee not, the diviſion of Chapters not be<g ref="char:EOLhyphen"/>ing Canonical, but made according to humane wiſdom and diſ<g ref="char:EOLhyphen"/>cretion: Of this therefore no more.</p>
+               <p>I come to the third charge, which is concerning <hi>Silence, Sit<g ref="char:EOLhyphen"/>ting, Bowing, &amp;c.</hi> To which I muſt firſt tell them, That this comes in very unſeaſonably in this place; this belongs rather to the ridi<g ref="char:EOLhyphen"/>culous manner of our Service, then to the matter of it; but their want of method I muſt needs paſs over many times, leſt my Book ſhould grow too big.</p>
+               <p>Secondly, I muſt tell them again, that the Book appoints none of theſe things they here inveigh againſt; therefore if thoſe things were as bad indeed as they would make them, all this were nothing to purpoſe againſt the Book, which they pretend onely to write againſt. Nevertheleſs, being in many paſſages they labor to diſgrace our Church what they can, as well as the Book they write againſt; I would, if they would come to parti<g ref="char:EOLhyphen"/>culars, aſſay to anſwer all, and as far as I can by theſe general words gueſs at their meaning, I will briefly anſwer them. It hath been the cuſtom long ago in many Churches, to ſtand up at the Goſpel; and it was alſo uſual at the naming of the Goſpel to ſay, <hi>Glory be to thee O Lord;</hi> and after the end of the Goſpel, to ſay <hi>Thanks be unto God.</hi> Theſe I preſume are the things they aim at (for the bowing at the name of Jeſus, was, and is as much uſed in all parts of Service and Sermon, as of the Goſpel.) To the other three therefore, as proper to the Goſpel, I will onely ſpeak: And firſt to the <hi>ſtanding up:</hi> We know many men at the naming of the Text, and many times in the Sermon will ſtand up, not onely for their eaſe, but to hearken the more attentively: Why then is it not as lawful ſo to do at the Goſpel? We know ſtanding up, when we hear one beginning to ſpeak to us, does both ſhew reſpect to what is ſpoken, and a readineſs to receive what is ſpoken wil<g ref="char:EOLhyphen"/>lingly and chearfully: By ſtanding up then at the reading of the
+<pb n="22" facs="tcp:102694:12"/> Goſpel, we ſhew our gladneſs and readineſs to receive it; and what prophaneneſs or grand abuſe can be in this? Then for ſay<g ref="char:EOLhyphen"/>ing, <hi>Glory be to thee, O Lord.</hi> We know when the Angel firſt brought word of our Saviours birth, the Author of the Goſpel, there were preſently with him a multitude of Heavenly Angels, ſaying, <hi>Glory be to God on high.</hi> If the Church then in memory <note place="margin">Luke 2. 13, 14.</note> hereof, do at the naming of the Goſpel uſe part of that Angeli<g ref="char:EOLhyphen"/>cal Hymn, what grand abuſe is this? when our Saviour firſt came into the world, this was the Angels praiſing God; and when we hear mention made of the Goſpel, which declares and preacheth theſe glad tidings to us, with the benefits coming to us thereby, we do with like words give glory to God the Son, and we are counted prophane for it. Laſtly, when we have heard ſome of the Goſpel read, which publiſheth theſe things to us, we preſently give thanks to God for this. Now what ſuperſtition or prophane abuſe there is in this ſtanding and reſpond, as they call it, before, at and after the Goſpel, let any indifferent man judge.</p>
+               <p>Now upon theſe their grievous complaints, they flee to the <hi>Parliament as ſupream Judges to vindicate this diſhonor done to God:</hi> Which how it can ſtand with the loyalty mentioned in their Preface; or with the ſubſcription which they have, or ſhould all have ſubſcribed, if they be rightly Miniſters, and Orthodox, as they pretend to be, let them ſay, who acknowledge the King ſupream Judge in all Cauſes, and over all Perſons. Laſtly, Where<g ref="char:EOLhyphen"/>as they ſay in the end of this Section, <hi>That the diſcovery of ſome evil in the Apocrypha condemns our Common Prayer-Book for ap<g ref="char:EOLhyphen"/>pointing it to be read.</hi> I anſwer, It follows not, except it did ap<g ref="char:EOLhyphen"/>point thoſe Books to be read as parts of Canonical Scripture, which we know it does not. This for the grand abuſes in general in Epiſtles and Goſpels.</p>
+               <p>Now we muſt with them to particular untruths by them charged upon us, bidding us to</p>
+               <p>
+                  <hi>Look upon that egregiouſly abuſed place, or Chriſt abuſed by our dealing with that place, namely</hi> Revel. 12. 1. Michael <hi>and his An<g ref="char:EOLhyphen"/>gels fought, &amp;c. Which words the Book appoints for the Collect,</hi> they mean the Epiſtle <hi>for</hi> Michaels <hi>day; where they make Chriſt by miſ<g ref="char:EOLhyphen"/>applying the place, a created Angel.</hi>
+               </p>
+               <p>Here they make much ado to prove <hi>Michael</hi> to be Chriſt, which being granted them with ſuch ado, their accuſation is ne<g ref="char:EOLhyphen"/>ver
+<pb n="23" facs="tcp:102694:12"/> the truer, nor our Cauſe or Book the worſe. The reading the Epiſtle on <hi>Michaelmas</hi> day, in no ſort makes Chriſt a created Angel; but the keeping of <hi>Michaelmas</hi> day as we keep it, is one<g ref="char:EOLhyphen"/>ly in memory of <hi>Michael</hi> (or Chriſt if they pleaſe) who is called an Angel, <hi>Mal.</hi> 3. 1. Who with all his created holy Angels, fought againſt the Devil and his Angels. We call Chriſt an Angel, ſo does the Scripture, but it calls not a created Angel, no more does our Book, nor we; but in memory of that victory of that <hi>Mi<g ref="char:EOLhyphen"/>chael</hi> and his Angel, we keep that day, praiſing God for it; and ſo read that part of Scripture which relates it.</p>
+               <p>Secondly, They tax the words in the latter end of the <hi>Bene<g ref="char:EOLhyphen"/>dicite,</hi> but to no purpoſe; if that were the Song of the Three Children we do not know; we do not now exhort them three to praiſe the Lord, but ſing their ſong in memory of them, and their miraculous deliverance. When we read <hi>Davids</hi> Pſalms, we do not in many of them pray for the things that he in thoſe Pſalms prayed for.</p>
+               <p>The third particular here, is a clauſe or ſentence in our Burial of the dead; for which very particular, I refer the Reader to Dr. <hi>Sparge,</hi> in <hi>Chap.</hi> 12. <hi>pag.</hi> 62. where that matt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r is expreſly hand<g ref="char:EOLhyphen"/>led; and where I know another man hath anſwered any thing, to avoid prolixity, I ſay nothing. Next then comes their Syllo<g ref="char:EOLhyphen"/>giſm.</p>
+               <p>
+                  <hi>That which is mans device, and hath been an Idol in Gods wor<g ref="char:EOLhyphen"/>ſhip, muſt of neceſſity be ſo ſtill: But the Ceremonies mentioned in the Service-Book, have been Idols in Gods worſhip, as Croſs, Surplice, &amp;c.</hi> Ergo, <hi>They muſt be Idols ſtill in the worſhip of God.</hi>
+               </p>
+               <p>To this I anſwer. Firſt, The Propoſition is falſe; their proof is from ſome few particulars to a general, which whoſoever hath the leaſt ſmatch of Logick in him, knows to be nothing worth. We may by this rule as well demoliſh our Churches and Ch<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p<g ref="char:EOLhyphen"/>pels; nay ſomewhat more may be ſaid againſt them, then our Surplices; for the very particular individual Churches which we now have, have been abuſed to Idolatry, which our particular Surplices have not: And ſo the Minor alſo is faulty, namely, our Croſſes, Surplices, and particular Ceremonies, which we now uſe, have never been Idols at all: And ſo we deny, and have proved their later Propoſition alſo falſe, which they tell us none can deny. For the other ſuppoſed abuſes in the Sacraments, in
+<pb n="24" facs="tcp:102694:13"/> the Churching, the Confirmation, &amp;c. I refer the Reader again to Dr. <hi>Sparge</hi> to ſatisfie all. Next they tell us<g ref="char:punc">▪</g>
+               </p>
+               <p>
+                  <hi>We would not have the Lent Faſt forgotten, which the Patrons of our Liturgy make a Religious Faſt, abuſing places of Scripture by miſ-application of Scriptures,</hi> as <hi>Joel</hi> 2. 12. <hi>Matth.</hi> 6. 16. <hi>&amp;</hi> 4. 10. 2 <hi>Cor.</hi> 6. 2.</p>
+               <p>This <hi>Lent</hi> Faſt which they would not have forgotten, no more would I. For the abuſing the places of Scripture mentioned by them, if they did particularly ſhew wherein the ſuppoſed abuſes conſiſt, I would anſwer them more particularly; but howſoever ſuppoſing they count the Scriptures which ſpeak of Faſting, to be abuſed by being read in <hi>Lent,</hi> which is not a Religious but a Po<g ref="char:EOLhyphen"/>litick Faſt, as they ſeem to ſay. I anſwer, that the <hi>Lent</hi> is in<g ref="char:EOLhyphen"/>deed by our Laws, and the Kings late Proclamation a Politick Faſt; nevertheleſs, if any man obſerving our <hi>Lent</hi> according to Law, by abſtinence from fleſh totally, do alſo by temperance, and an abſtemious and ſpare diet all that time, and by abſolute Faſting ſometime in the <hi>Lent,</hi> keep a Religious Faſt, by ſubduing the fleſh, by Mortification and Repentance, more then ordina<g ref="char:EOLhyphen"/>ry humbling himſelf before God: This man as he ſhews himſelf in that reſpect a Loyal Subject by the former, ſo he does the duty of a good Chriſtian by the later, pleaſing God by both; for his better help and aſſiſtance then in the later, the places of Scripture which he ſhall hear read in the time of <hi>Lent,</hi> are uſeful and bene<g ref="char:EOLhyphen"/>ficial to him. Neither do we incline to Popery in this Religious Faſting, nor approve of their ſuperſtitious Faſt, nor Faſt in imi<g ref="char:EOLhyphen"/>tation of them; for they that do celebrate ſuch a Religious Faſt in the time of <hi>Lent,</hi> take not the example of the Papiſts to fol<g ref="char:EOLhyphen"/>low therein, but of the antient Chriſtian Church, which did ſo faſt many years before Popery was hatched. This Religious Faſt therefore, though we preſs not as by Law required, yet may we ſafely and profitably perſwade to, and preach and read concern<g ref="char:EOLhyphen"/>ing it, from the example of the Church in former times.</p>
+               <p>Laſtly, In this Chapter they come to that which they call <hi>Fop<g ref="char:EOLhyphen"/>peries and fooleries in our Book:</hi> Touching alſo again upon <hi>falſe Tranſlations,</hi> that they may be ſtill like themſelves, obſerving no method or order in any thing: But to the point having an<g ref="char:EOLhyphen"/>ſwered already, I come with them to their <hi>fooleries.</hi>
+               </p>
+               <p>
+                  <hi>What can be ſaid for thoſe Tautologies and Battologies uſed in the Service-Book, as Lord have mercy upon us, Chriſt have mercy, &amp;c.</hi>
+                  <pb n="25" facs="tcp:102694:13"/> 
+                  <hi>condemned</hi> Matth. 6. 7. And by and by, <hi>One foppery more, that mu<g ref="char:EOLhyphen"/>tual ſalutation between Prieſt and People, in theſe words, The Lord be with you; And with thy ſpirit.</hi> Laſt of all they conclude thus; <hi>Tritenhemius wrote a Book upon</hi> Dominus Vobiſcum, <hi>in which are many fruitleſs queſtions, and ſo we are ſure the thing it ſelf is fruit<g ref="char:EOLhyphen"/>leſs.</hi>
+               </p>
+               <p>If it be a vain Tautology to repeat thoſe words a few times in praying to God, what will they ſay to the Prophet <hi>David,</hi> for re<g ref="char:EOLhyphen"/>peating the ſame words ſo often in praiſing God? namely <hi>Pſal.</hi> 118. the ſame words five times; and <hi>Pſal.</hi> 136. the very ſame words twenty ſix times more.</p>
+               <p>Next for the <hi>Salutation,</hi> as they call it. I anſwer it is no fool<g ref="char:EOLhyphen"/>iſh ſalutation, as they would have it, but a mutual praying of the Miniſter and people each for other ſeverally, before they begin joyntly to pray the prayers following altogether: And in no ſort can this be unlawful, or fooliſh, or unfitting, but rather very fit and convenient for each other hereby to expreſs their mutual charity; without which, none of their enſuing prayers can be either pleaſing unto God, or profitable to themſelves. Firſt therefore the Miniſter to ſhew his charity, prays to God to be with the people in their prayers, that they may with heart and voice, faith and fervency pray to God the prayers following; then they pray the like for him, onely emphatically they mention his Spirit, as moſt deſiring Gods aſſiſtance of it. Thus praying charitably each for other, they do all joyntly and more unani<g ref="char:EOLhyphen"/>mouſly pray altogether, reſting upon that promiſe of our Saviour, <hi>Matth.</hi> 18. 19.</p>
+               <p>Laſtly, To conclude this Chapter; whereas they do in the laſt place, by a quirk conclude this to be a <hi>fruitleſs ſalutation, be<g ref="char:EOLhyphen"/>cauſe ſuch a man hath made many fruitleſs queſtions about it.</hi> This is as ridiculous an Argument, as to ſay alſo, That our Liturgy muſt needs be evil, becauſe theſe men have made ſuch an evil diſ<g ref="char:EOLhyphen"/>courſe about it.</p>
+            </div>
+            <div n="5" type="chapter">
+               <pb n="26" facs="tcp:102694:14"/>
+               <head>CHAP. V. <hi>Of the Letany.</hi>
+               </head>
+               <p>HErein paſſing over all their railing flouriſhes in the former part of the Chapter, I have theſe ſix ſeveral accuſations of our Letany to anſwer to; and then a Syllogiſm againſt all the Book. To theſe now in their otder.</p>
+               <p>The firſt is of ſeveral Repetitions of the ſame words. <hi>Good Lord deliver us: And we beſeech thee to hear us good Lord.</hi> Con<g ref="char:EOLhyphen"/>cerning which words, we ſay they are no vain Repetitions, but ſo many ſeveral Prayers for ſo many ſeveral things. And that theſe men ſhould be ſo bitter againſt Repetitions, is very unreaſonable, conſidering what Prayers divers of them make before their Ser<g ref="char:EOLhyphen"/>mons, wherein they have ſuch ſtrange Repetitions, and runnings backward and forward, That he that ſhall come into the Church in the time of their Prayer, cannot tell whither they are near the beginning, middle or end; and they that hear them all the while, from firſt to laſt, cannot tell when they are toward an end, till they have in a manner quite done. And I have heard of one (whom I do not commend for ſo ſpending the time) that reckoning how often one of them repeated the word <hi>Lord</hi> in his Prayer found it to be betwixt Four and five hundred times: And if that word were drawn out at length, as ſome of them draul it out ſometime (that they may think of what to ſay next before they have done with that) the repeating of that word alone would take up more time, then our twenty eight Repetitions as they count them in the Letany.</p>
+               <p>The ſecond accuſation is, That we pray</p>
+               <p>
+                  <hi>To be delivered from ſuch things, from which there is not the leaſt appearance, no more then of the French-Pox, the danger of being drunk at a Whitſun-Ale, or a Purſe cut at a Stage-play, and not ſo much.</hi>
+               </p>
+               <p>If theſe be ſober expreſſions, well and good, otherwiſe their unſpotted Piety may again be queſtioned for bringing ſuch a Strumpet inſtead of Virgin-ſobriety. But to the matter of the Argument, I anſwer; If they had named thoſe things prayed
+<pb n="27" facs="tcp:102694:14"/> againſt in our Letany, which they ſuppoſe there is no danger, I could eaſily have anſwered more particularly to this charge: But now onely I ſay in general, I know no evil prayed againſt in the Letany which may not poſſibly fall upon us; and the more ſecure we might count our ſelves from it, ſo that we ſhould ſcorn to pray againſt it, the more danger there would be, that through the juſt judgment of God it might come upon us.</p>
+               <p>Secondly, If there be any evils which others have ſuffered, or do ſuffer, which we in this Land are in great danger of; yet con<g ref="char:EOLhyphen"/>ſidering the Communion of Saints, we may juſtly pray, as we do againſt ſuch things, by the word <hi>us,</hi> not underſtanding our ſelves here in <hi>England,</hi> but us Chriſtians in general; for all whom we do, or ought to pray as for our ſelves.</p>
+               <p>Thirdly, By that expreſſion of Fornication, and all other dead<g ref="char:EOLhyphen"/>ly ſins, they ſay we make ſome ſins venial: But I anſwer, no ſuch matter; we uſe not that expreſſion there by way of diſtinction of ſeveral kindes of ſins, but by way of explication of the nature of ſin; and moſt fitly in that place do we ſo uſe it, becauſe we know ſome Papiſts make ſimple fornication to be ſcarce any ſin, at moſt but a ſmall venial one: Which doctrine we deteſting, do fitly ſay, Fornication and all other deadly ſin, by the word <hi>other,</hi> including Fornication for one.</p>
+               <p>Fourthly, They accuſe thoſe expreſſions, <hi>By thine agony and bloody ſweat, by thy croſs, &amp;c.</hi> to be a kinde of conjuring or ad<g ref="char:EOLhyphen"/>juring: But if theſe expreſſions be ſuch, what is that of St. <hi>Paul,</hi> 
+                  <note place="margin">Rom. 12. 1.</note> 
+                  <hi>By the mercies of God, I beſeech you, &amp;c.</hi> and divers others in that kinde in ſeveral places?</p>
+               <p>Fifthly, they adde, <hi>That we may not come ſhort of the Papiſts idolizing the Letany, we have not onely our ordinary and weekly Le<g ref="char:EOLhyphen"/>tanies, but our annual or yearly Letanies acted in Proceſſion.</hi>
+               </p>
+               <p>To this firſt, The Annual Proceſſion not being by our Common Prayer-Book appointed, is nothing to purpoſe againſt the Book; therefore the bringing of it in thus here, ſhews their malice againſt our Church in general, as much as againſt our Common Prayer Book. Therefore, ſecondly, had they ſaid any thing againſt that Proceſſion in particular, I would have particularly anſwered it; but now ſeeing no fault in it, nor knowing what fault they can forge againſt it, I can ſay no more of it.</p>
+               <p>Sixthly and laſtly, <hi>They accuſe our Letany for a Prayer againſt the Tyranny of the Pope, which they ſay hath been expunged ſince King</hi>
+                  <pb n="28" facs="tcp:102694:15"/> Edward's <hi>days.</hi> To which I ſay, If out Letany want any thing that ſhould be in, it may be ſaid to be defective, and need an ad<g ref="char:EOLhyphen"/>dition, but not to be caſt off as ſuperſtitious; the want of ſome good, which ſhould be in any thing, makes not the reſt of the good which is in it to be ſtark naught.</p>
+               <p>Now though this be all that is in this Chapter objected againſt the Letany, yet here are two or three things more in it to be ſpoken of: For though the title of it be onely of the Letany, yet that they may be ſtill like themſelves, they ſhuffle other things in alſo; as namely, <hi>The cavil againſt the Collect on the twelfth Sunday after Trinity, asking us how we can juſtifie thoſe words in the Collect? giving unto us that which our Prayers dare not preſume to ask, becauſe what we dare not pray for, we ſhall never obtain.</hi>
+               </p>
+               <p>To this we muſt anſwer, that we can juſtifie that Petition by the right expounding the meaning of it; which is this, as in the former part of the Prayer we acknowledge Gods readineſs to hear us, and abundant mercy in giving beyond our deſervings or deſirings; ſo now we deſire him to give us more then we dare particularly crave at his hands, that whatſoever he ſees fitting for us, he would grant, though we dare not particularly mention it to him. And whereas they ſay, What we dare not ask, we ſhall never obtain, that hath no truth in it; for <hi>Solomon</hi> asking onely wiſdom, and daring to go no farther, yet we know he obtained honor and riches alſo.</p>
+               <p>Thus much for their particular exceptions, now we come to the general Syllogiſm.</p>
+               <p>
+                  <hi>That Service, the matter or bulk whereof, is partly falſe, partly fooliſh and frivolous, ſhould not be preſented unto God. But the parts of the Service are ſuch, as hath been fully proved. Therefore they ſhould not be preſented to God.</hi>
+               </p>
+               <p>To this, firſt it fails in form, and ſo concludes not the queſtion, that the Service-Book is not to be preſented to God, but onely that ſome parts of it are not to be preſented; and ſo they ſeem to expreſs in the concluſion, not ſaying as they ſhould: Therefore it is not to be preſented, that is, the Common Prayer-Book is not to be preſented: But therefore they are not, &amp;c. <hi>i. e.</hi> the vicious parts of it; and ſo they conclude not, that the whole Book is to be re<g ref="char:EOLhyphen"/>jected, but ſome things in it to be expunged or amended. Which had they onely deſired, and that in any civil way, and ſober man<g ref="char:EOLhyphen"/>ner, it might happily have been done long ago without ſtrife,
+<pb n="29" facs="tcp:102694:15"/> hatred and uproars; but for ſome pretended abuſes, nothing but a total abolition could ſerve their turns. But to come to the mat<g ref="char:EOLhyphen"/>ter of their Syllogiſm; the Minnor is utterly falſe, neither all the parts of the book, or any part of it having been fully proved to be frivolous and fooliſh; neither can the Major be granted, ex<g ref="char:EOLhyphen"/>cept the denomination of falſe, frivolous, and fooliſh, be gi<g ref="char:EOLhyphen"/>ven to the whole book or matter from the greater part of it; which granting all they have ſaid for true (how falſe ſoever we know it is) yet cannot that denomination be juſtly given to the book, and ſo it does not follow that it may not be uſed in Gods ſervice.</p>
+               <p>So now having anſwered all they have ſaid in this Chapter alſo, I muſt now come upon a little to queſtion their piety again; for ſome words in this Chapter, they ſay thus;</p>
+               <p>
+                  <hi>It is true we have left out the Saints in our Liturgy; that was too groſs; but had the</hi> Laudenſes <hi>got their colours fixed, ere this the Le<g ref="char:EOLhyphen"/>tany had been flanked with this ſtuff.</hi>
+               </p>
+               <p>Concerning which to paſs by that title which they give in ſcorn to all that are not of their ſtampe, paſſing that by, I muſt take notice of their charitable cenſure here, accuſing all thoſe they miſlike of an intention of bringing praying to Saints into our Liturgies and Letany. Is this any Chriſtian charity? If this cen<g ref="char:EOLhyphen"/>ſure argue no charity, as I preſume no man will ſay it does; cha<g ref="char:EOLhyphen"/>rity by their own words in their Preface, <hi>Being one of the four virgin daughters of unſpotted piety;</hi> their piety muſt be either very much ſpotted in bringing forth ſuch a Charity, or elſe very barren in bringing forth virgin d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ughters, having brought forth neither loyalty nor ſobriety, as we have ſhewed already; nor charity as appeared before, and now again is evident; ſo that if Dame Equity come not forth at laſt to ſave her mothers credit, little unſpotted piety will be found in theſe Unmaskers, if we examine them by their own principles. Of their equity there<g ref="char:EOLhyphen"/>fore I ſhall ſpeak alſo in due place; In the mean while having done with the matter of our Liturgy, I am next to come to the manner of it.</p>
+            </div>
+            <div n="6" type="chapter">
+               <pb n="30" facs="tcp:102694:16"/>
+               <head>CHAP. VI. <hi>Of the Manner.</hi>
+               </head>
+               <p>AFter their uſual faſhion of an idle preamble, they procceed to name theſe particulars in blaming the manner of our Church Service.</p>
+               <p>Firſt to the <hi>Miniſter, whoſe change of voice, place and poſture, is ſtrange and ridiculous; for firſt he muſt ſay ſome things with a loud voice, not all; what can be the reaſon of this, but that of the Maſs-Prieſts, that there are ſome myſteries which the profane Laicks muſt not hear?</hi>
+               </p>
+               <p>Inſtead of a ridiculous manner of ſerving God according to our Com. Pr. book, I ſhall ſhew the contrary God willing in due time: in the interim to this whole charge in this Chapter, it is utter<g ref="char:EOLhyphen"/>ly falſe in all the particulars. Firſt for that here firſt mentioned, of the Miniſters change of voice; the book appoints no ſuch change, nor bids him ſay any thing at all ſoftly, but onely puts him in mind, ſometime of ſpeaking out that he may be heard of all, but not one word or ſyllable is there in the Book to move him to ſpeak any thing otherwiſe then with an audible voice; the thing then he layed to our charge being wholly falſe, we need ſay nothing to the forged reaſon hereof; onely let me ask what Charity or Equity there can be in this dealing? Inſtead of Equity and Charity herein, what can it be but extream unjuſtice and ma<g ref="char:EOLhyphen"/>lice both to forge ſuch an accuſation againſt us, that they may fain ſuch a reaſon of it as is far worſe then the thing it ſelf? If here be Equity or Charity, let the producers hereof be judged men of unſpotted piety.</p>
+               <p>Their ſecond exception againſt the Miniſter, we have in theſe words.</p>
+               <p>Secondly, <hi>For his poſture, beſides the windings, turnings and cringings, his face muſt be ſometime toward the people, and ſometime his back.</hi>
+               </p>
+               <p>Concerning theſe poſtures, we have nothing in the book, or any word tending that way, except they catch at theſe places. 1. Where the Miniſter is appointed at reading the Leſſons, to ſtand, and ſo turn himſelf that he may be beſt heard of the people.
+<pb n="31" facs="tcp:102694:16"/> 2. When at the Communion, when he is appointed to turn to the people in reading the bleſſing, this is all of the turning ſo con<g ref="char:EOLhyphen"/>demned. And for the firſt of theſe, for him to ſtand at the reading of the Leſſons, it is according to Chriſts own example, <hi>Luk.</hi> 4. And for ſtanding, ſo as he may be beſt heard, reaſon might perſwade it, if it were not commanded; and ſo likewiſe for turning towards the people at the bleſſing of them. Other ſtanding beſides this, is but three times appointed in all the Ser<g ref="char:EOLhyphen"/>vice; namely firſt at the Creed, which is for the people as much as the Miniſter, and the fitneſs thereof ſhall be ſhewed in due place. 2. At the Verſicles, <hi>O Lord ſhew thy mercy upon us,</hi> &amp;c. where the people are to anſwer the Miniſter; And 3. At the communion, that the people may the better ſee his demeanor in the conſecration. If any particular exceptions were made againſt any of theſe Poſtures, they ſhould be anſwered particularly; but without that, to poſſeſs the people with a conceit of I know not what ridiculous turnings, windings, and cringings in general terms, from theſe fit, few, decent and convenient at leaſt, if not needful actions and geſtures of kneeling at prayer, ſtanding at the con<g ref="char:EOLhyphen"/>feſſion of faith, and ſome other times, that his voice may be the better heard, and his actions the better ſeen of the people; if this ſavour of any ingenuity or conſcience in theſe Unmaskers, let any indifferent man ſay.</p>
+               <p>Thirdly, they complain that <hi>The Prieſt ſaies ſomewhat in the Church, ſomewhat in the Chancel, getting himſelf from the people as far as he can,</hi> &amp;c.</p>
+               <p>To this ag<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in I ſay, there is no ſuch thing by the book appoin<g ref="char:EOLhyphen"/>ted, nor is the Miniſter bound to perform any p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rt of the Ser<g ref="char:EOLhyphen"/>vice in the Chancel, but at the communion, nor then neither ex<g ref="char:EOLhyphen"/>cept the table ſtand there; nevertheleſs, if any Miniſter reading that part of the Service which belongs to the Communion, do uſe to go to that table to read it, if they can make any particular exceptions againſt it, they that uſe it will be able to anſwer them; but howſoever, moſt unexcuſable are they that blame our book for that, which, be it better or worſe, the book enjoyns not at all. This for the firſt head of their exceptions againſt the Miniſters manner of Service.</p>
+               <p>In the ſecond place comes <hi>the unmannerly handling of the mat<g ref="char:EOLhyphen"/>ter. Firſt they have many ſhort Collects,</hi> &amp;c.</p>
+               <p>This unmannerly dealing, they branch out into three particu<g ref="char:EOLhyphen"/>lars.
+<pb n="32" facs="tcp:102694:17"/> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>That there be many ſhort Collects, but a long and tedious Service.</hi> 2. <hi>That it is ſeveral times ſaid, Let us pray.</hi> 3. <hi>That the people anſwer and ſay any thing in the Service with the Miniſter.</hi> And to make this charge good, they bring two ſimilitudes of <hi>little Girles cutting cloth to pieces, and of an Ambaſſador.</hi>
+               </p>
+               <p>We anſwer, firſt to all in general, concerning unmannerlineſs in Gods ſervice, let them ſhew what of manners in particular there is, or what part of good manners we offend againſt, either toward God or man, in any thing we follow the book in, and they ſhall be particularly ſatisfied; In the mean time let the world judge, whether it be not more rudeneſs, unmannerlineſs, and incivility to wear their hats in time of Divine Service, to ſit or loll or lean unreverently this way or that way, neither ſtanding nor kneeling in the very time of prayer, then to go reverently and civilly out of the Desk to the Communion table. Secondly, to the particulars. 1. What is the hurt in ſhort prayers? much good and conveniency we ſee therein, when divers perſons com<g ref="char:EOLhyphen"/>ming into the Church in time of prayer, when one ſhort prayer is ended, they can preſently at the beginning of the next joyn with the Congregation, and ſo go on with all the reſt to the end. 2. For the better ſtirring up and inciting the peoples too too dull hearts and minds, by putting them often in mind of what they are or ſhould be all about, it is not onely not amiſs, but needful to call upon them, with <hi>Let us pray,</hi> when any wandring or ſtragg<g ref="char:EOLhyphen"/>ling thoughts have averted their minds. 3. For the anſwering of the people, it is ſuch an eſpecial means to keep from drowſi<g ref="char:EOLhyphen"/>neſs, du<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>neſs, and to rouſe up their ſpirits and affections to be wholly occupied in thoſe ſacred duties they are about, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s nothing can be more. And whereas they talk of the peoples interrup<g ref="char:EOLhyphen"/>ting the Miniſter by their ſaying with him, or anſwering him, it is ſo far from interrupting or hindring his devotion, that it does comfort him, encourage him, and elevate his heart and ſpirit to hear his Congregation with one heart and voice, as it were joyn<g ref="char:EOLhyphen"/>ing with him, and anſwering to him in his heavenly devotions. So that as <hi>David</hi> ſaid, ſo every faithful Miniſter that deſires the peoples good as his own muſt neceſſarily, heartily rejoyce in hear<g ref="char:EOLhyphen"/>ing <note place="margin">Pſal. 122. 1.</note> that concent of the people with him in praſing God, or pray<g ref="char:EOLhyphen"/>ing unto him; and happieſt are thoſe Miniſters which have ſuch Congregations; I grieve for the want of it.</p>
+               <p>In the next place come their ſimilitudes, but all men know
+<pb n="33" facs="tcp:102694:17"/> that ſimilitudes prove nothing; they may illuſtrate a thing when fitly and rightly applied, but prove they cannot. And theſe are ſuch as do not that; the firſt as being an idle thing in it ſelf, ſo is nothing to our purpoſe, or reſembling the buſineſs in hand: The other which ſeems to hit the nail on the head, does not hurt us. For though it be not fit or ordinary when an Ambaſſador is de<g ref="char:EOLhyphen"/>livering his meſſage, for his attendants by, to meddle to ſpeak any thing, they not knowing what his embaſſage is, nor being con<g ref="char:EOLhyphen"/>cerned in it; yet to make ſome reſemblance between the caſe of an Ambaſſador, and this of ours, if the Ambaſſador were to treat of ſuch a buſineſs, wherein the conſents of all preſent were neceſſary to be expreſſed to the King to whom he ſpeaks, and he ſhould deſire to hear it; then what unfitneſs were it for the people at ſuch and ſuch ſet periods, to ſpeak ſuch words as ſhould be appointed to expreſs their hearts that way? This is the caſe in the Miniſters and Peoples praiſing God, and praying to him: But theſe being no p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oofs, I paſs hence, and come to the laſt thing in this Chapter, which is this Syllogiſm.</p>
+               <p>
+                  <hi>That worſhip of God, which for Name, Original, Matter, and Manner, is naught all over, is not to be ſuffered, head nor tail, but wholly to be caſt out of Gods houſe: But the Liturgy is ſuch a wor<g ref="char:EOLhyphen"/>ſhip, &amp;c. Therefore it is to be caſt out.</hi>
+               </p>
+               <p>To this the anſwer is plain; the falſity of the Minor in all the particulars hath appeared by this my anſwer, I hope ſufficiently; And ſo I might finiſh this Chapter, but for one wonder which herein they make, and I am willing to ſatisfie them therein; they propound their minde thus.</p>
+               <p>
+                  <hi>To ſhut up the point, one thing we cannot but wonder at, why the Popiſh, Prelatical Prieſts, do admit the common people a ſhare in ſay<g ref="char:EOLhyphen"/>ing of Service, who will not have the people in any caſe to try, much<g ref="char:EOLhyphen"/>leſs to judge of the Doctrines of their Teachers.</hi>
+               </p>
+               <p>The caſe is plain enough, becauſe many men may be fit for one thing, which are not fit for another. It is an eaſier thing to joyn with others in the Worſhip and Service of God for matter and manner once rightly inſtituted and appointed, then to know how thus to order ſuch a Service, for the glory of God and good of his Church: All therefore are bound to do the one, few able, and ſo few ſuffered to do the other. Yet by the way you may take notice concerning your laſt clauſe, we hinder not the people to do like the <hi>Bereans,</hi> to try and examine what they are taught by <note place="margin">Acts 17.</note>
+                  <pb n="34" facs="tcp:102694:18"/> the Scriptures; but we allow not the Learners to teach their Teachers how, or what to teach. But of this enough.</p>
+            </div>
+            <div n="7" type="chapter">
+               <head>CHAP. VII. <hi>Of the Effects.</hi>
+               </head>
+               <p>HEre they come to the pretended <hi>evil effects</hi> of our Common Prayer-Book, which they tell us, are firſt, <hi>upon the Mini<g ref="char:EOLhyphen"/>ſters;</hi> ſecondly, <hi>upon the Ordinances;</hi> thirdly, <hi>upon the people;</hi> fourthly, <hi>againſt God moſt of all.</hi>
+               </p>
+               <p>For the firſt, They tell us <hi>that Miniſters which are good work<g ref="char:EOLhyphen"/>men, and bad workmen, and no workmen, are all hurt by the Common Prayer Book.</hi>
+               </p>
+               <p>And firſt they inſtance in the laſt of theſe, thus: <hi>Where Mini<g ref="char:EOLhyphen"/>ſters ſhould be apt to teach, &amp;c. this Book ſettles ſuch blind fellows over people, who can neither feed nor lead.</hi>
+               </p>
+               <p>To this the anſwer is plain, the Book appoints not at all what Miniſters we ſhall have ſetled in Churches, but what they ſhall do that are ſetled in them. And if we have any ſuch as they here ſpeak of, and call them <hi>dumb dogs,</hi> ſaying, <hi>Sir Johns, &amp;c.</hi> Theſe are not hurt, nor the Churches that have them, hurt; but benefited by the Common Prayer-Book; for hereby they that can do no other good, yet are forced to do ſome, by reading that Book duly to and among the people; for by that reading, the ignorant people are inſtructed by the Word of God read to them, according to the Book: They have alſo a Confeſſion of Faith, the Ten Commandments, the Lords Prayer, by frequent read<g ref="char:EOLhyphen"/>ing, taught them, with many other excellent and godly Prayers; whereby they call upon God agreeably to his Word, wherewith they praiſe God with Songs and Hymns in this Book which with<g ref="char:EOLhyphen"/>out it, they could not tell how to do. So then all the bad Mini<g ref="char:EOLhyphen"/>ſters, whether no Preachers or bad Preachers, are all helped by this Book; thoſe that cannot preach at all, if any ſuch be now, do good by reading; theſe which are evil Preachers, and could do nothing but hurt (if any ſuch there be) by idle and ſenſeleſs Prayers, and erroneous Doctrine which they preach and make themſelves, which they would do onely, ſhall by reading the Book
+<pb n="35" facs="tcp:102694:18"/> do ſome good, both to themſelves and others. Then for the good Miniſters, which they divide into two ſorts, ſome <hi>Conformiſts to whom the Book they ſay is a burthen; ſome Non-Conformiſts, which for this Book are ſufferers.</hi> I anſwer, the firſt are not hurt by the Book, but by their own erroneous Conſcience, which makes that a burthen to them, which of it ſelf is no ſuch thing: For the other which are ſufferers for their diſobedience, it is either their weakneſs, or their obſtinacy which cauſes them to ſuffer, and not the Common Prayer-Book; which is at the moſt but a remote <hi>Cauſa ſine qua non;</hi> of their ſufferings, if they ſuffer onely for refuſing that, elſe it is not ſo much: And I believe there are few ſufferers, if any at all, which have had no fault but non-confor<g ref="char:EOLhyphen"/>mity to the Book laid to their charge; this for the Miniſters then is nothing. Secondly, they tell us <hi>the Ordinances ſuffer by this Book,</hi> namely, <hi>Preaching is hindred by it;</hi> but this experience ſhews to be otherwiſe, no Toleration being given to neglect preaching for reading the Book; but where it is moſt punctually obſerved, Sermons are as good, though perhaps not ſo long, as in thoſe places where it is neglected; and we know it is not the length of the Sermon that makes the people edifie; but many times the untolerable tediouſneſs thereof, makes many even ſhun them, rather then frequent them. Neither do any of us eſteem more of the Service-Book (as they accuſe us) then of preaching in general; but to eſteem more of the ſet Prayers made by the moſt Judicious Fathers, and by Law eſtabliſhed, and of the Word of God truly and plainly read, then of ſuch <hi>ex tempore</hi> Prayers and Sermons, as many of the enemies of the Common Prayer-Book make ſometimes, no man that underſtands himſelf, and the Word of God, can poſſibly forbid, without manifeſt impiety: And that ſuch Prayers and Sermons are not more properly Far<g ref="char:EOLhyphen"/>dels of mens devices, then the Liturgy which hath ſo much of the ſincere Word of God in it, no reaſonable man can ſay. Then for thoſe words in the Canon, which they alledge <hi>of Divine Ser<g ref="char:EOLhyphen"/>vice and Sermon,</hi> they do not in the leaſt ſort make preaching no part of, or a leſſer part of Gods ſervice then reading and praying; but ſpeaking in that Canon for the ordering of the people, they ſpeak in the peoples language, wherein it is uſual to ſay Service and Sermon: So that had they ſaid onely Divine Service, and not added Sermon, ſome would have excluded the Sermon from be<g ref="char:EOLhyphen"/>ing underſtood in the Canon; but the Canon to ſhew that we
+<pb n="36" facs="tcp:102694:19"/> eſteem of Sermons as well as of Service, appoints the ſame reve<g ref="char:EOLhyphen"/>rence to be uſed in the one, that is in the other. This cavil there<g ref="char:EOLhyphen"/>fore is moſt idle.</p>
+               <p>Thirdly, They ſpeak of <hi>evil effects of our Liturgy upon the people.</hi>
+               </p>
+               <p>And herein firſt they tell us of an <hi>evil effect the Book hath upon the Law, becauſe ſome have been puniſhed for not reading the Book contrary to Law.</hi>
+               </p>
+               <p>Which I anſwer to thus: If this were true, it is meerly acci<g ref="char:EOLhyphen"/>dental to the Book, and partly the f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ult of diſobedient men, and partly of unjuſt Judges. But if the Act for the obſerving that Book be well looked into, they ſhall quickly ſee, that the offences in this kinde have not been puniſhed beyond the rigor of the Law, but have rather had more favor then the Law allows: For the Statute is plain, <hi>That whoſoever ſhall preach or ſpeak any thing in the derogation or depraving of the ſaid Book, or any thing therein contained, or any part thereof, and ſhall be convict thereof, &amp;c. ſhall forfeit all his Spiritual Promotions coming or ariſing in one whole year.</hi> How would theſe fellows ſtorm if this Act were put in exe<g ref="char:EOLhyphen"/>cution againſt them!</p>
+               <p>But to proceed; they tell us next, <hi>That this Book affronts Re<g ref="char:EOLhyphen"/>ligion;</hi> and herein they ſpend many words in nothing but un<g ref="char:EOLhyphen"/>chriſtian and unhumane railing, telling us, <hi>That many good peo<g ref="char:EOLhyphen"/>ple have ſuffered, &amp;c.</hi> Which diſcourſe, how horribly f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lſe ſoever it be, yet is to no purpoſe, if ſuppoſed true; for whatſoever men have ſuffered for ſeditious and rebellious words and actions, they would here make the ignorant people believe, hath been wholly for not conforming to the Book; juſt like the Papiſts, who when a Jeſuite or Prieſt is put to death for Treaſon, ſay, <hi>He is martyred here for his Religion.</hi>
+               </p>
+               <p>They tell us next, <hi>That many people have been deſtroyed by being brought in ignorance hereby:</hi> Which is ſo falſe and impoſſible, as nothing more; the Common Prayer-Book, if well obſerved and uſed, hath enough in it to ſhew any man the way to everlaſting life, by the Scriptures read, and ſuch Confeſſions of Faith as are neceſſary to ſalvation; and ſuch Prayers, a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> if faithfully prayed, and mercifully granted, we ſhall be happy enough in this world for a time, and perfectly happy in the world to come, for ever and ever. Whereas on the other ſide, many of their magnified Sermons fill poor ſouls with Errors, Hereſies, and Doctrines of
+<pb n="37" facs="tcp:102694:19"/> Devils, inciting and moving men to Rebellions, Murders, Trea<g ref="char:EOLhyphen"/>ſons, and the moſt damnable villainies that ever hath been com<g ref="char:EOLhyphen"/>mitted in our Land, as the murdering our late King, and many other horrid acts in the late times committed.</p>
+               <p>Laſtly, For thoſe three things which they propound to be <hi>con<g ref="char:EOLhyphen"/>ſidered from Queen</hi> Maries <hi>days, Pag.</hi> 41. For the preſent we can as truly deny them, as they falſly affirm them; and if they would inſtance of them more p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rticularly, they ſhould receive anſwer accordingly.</p>
+               <p>The fourth kinde of <hi>evil effects</hi> follows, namely, <hi>againſt God himſelf;</hi> which they tell us of, are theſe two. <hi>Feaſtival days to Saints, and kneeling at the Communion.</hi> Theſe I confeſs are right<g ref="char:EOLhyphen"/>ly laid to the charge of the Common Prayer-Book, which nothing elſe in all this Chapter is; but both theſe things we defend as good and lawful: For that the Church of God hath not power to appoint and ſet apart ſome days to be kept holy to God upon particular occaſions, is a fancy againſt the generality of their own parties opinion and practice, as well as againſt the truth it ſelf: For did not they continually in all theſe late years, in which they had all the ſway in their own hands, and all others but meer ſlaves to them; did not they, I ſay, ſet apart more days to keep holy in their raign, for Thankſgiving, Humiliation, &amp;c. then ever were appointed before (except in ſome time of Plague) in five times ſo many years? And as their practiſe was then, ſo their judgment was before, none of them ever queſtioning the lawfulneſs of keeping the Fifth of <hi>November</hi> for a day of Thankſgiving, or the days of Faſting for Prayer and Humiliation in the times of Peſti<g ref="char:EOLhyphen"/>lence, or any other grievous calamity. Neither do the two pla<g ref="char:EOLhyphen"/>ces quoted by them, <hi>Gal.</hi> 4. 10. <hi>Col.</hi> 2. 16. any thing touch our holy days; for they forbid not the Chriſtian Churches to appoint any particular holy days, as they ſhould ſee cauſe; but forbid Chriſtians to be in bondage to the Jewiſh Feaſtivals, being but ſhadows of things to come at firſt, and ſo ending with the Sacri<g ref="char:EOLhyphen"/>fice of Chriſt the Subſtance.</p>
+               <p>For the ſecond thing, <hi>Kneeling at the Communion;</hi> they would prove it to be <hi>Idolatry</hi> thus:</p>
+               <p>
+                  <hi>To adore in, by, or before a Creature reſpectively, with relation to the Creature, is Idolatry.</hi>
+               </p>
+               <p>
+                  <hi>But to kneel at the Sacrament, is ſo to adore: Therefore it is Idolatry.</hi>
+               </p>
+               <pb n="38" facs="tcp:102694:20"/>
+               <p> In this Syllogiſm we deny the Minor, as having no truth in it; we do no otherwiſe adore, then we do always at Prayer; and in the act of delivering and receiving the Sacrament we are in pray<g ref="char:EOLhyphen"/>er, joyning in our hearts with the words of the Miniſter pray<g ref="char:EOLhyphen"/>ing to God, That the Body and Blood of our Lord Jeſus Chriſt may preſerve our bodies and ſouls unto Everlaſting Life. And being thus in Prayer unto God, no action is ſo fitting as kneel<g ref="char:EOLhyphen"/>ing.</p>
+               <p>The laſt Argument in this Chapter againſt us, is this, <hi>God will not hear the prayer of the Service-Book: Therefore they are not to be offered.</hi>
+               </p>
+               <p>Then that God will not hear the Prayers in our Liturgy, they would prove by this, <hi>That they are not according to Gods will.</hi> Which they ſuppoſe, they have proved by all that they h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve ſaid in this Book. This if they have not proved, but all their Argu<g ref="char:EOLhyphen"/>ments to that purpoſe, have been by me ſufficiently anſwered and confuted; then is this laſt Argument nothing worth. Whether therefore of the two is true, let the Reader judge, and I will ſay no more of this matter.</p>
+               <p>Now for the Croſs in Baptiſm, which they onely do but men<g ref="char:EOLhyphen"/>tion, and refer us to <hi>Zions</hi> plea. I may as well, I make no doubt, refer you to the anſwer thereto, though I muſt confeſs I have never ſeen the one or the other. So having done with the matter and arguments in this Chapter; for their moſt unchriſtian railings in it, and all the reſt of that ſtuff, which their Book is ſtuffed withal, if St. <hi>Peters</hi> words, and St. <hi>Judes,</hi> can neither ſtop their mouths, nor make others ſtop their ears againſt ſuch ſpeeches, by thoſe two places, 2 <hi>Pet.</hi> 2. 10, 11, 12. and <hi>Jude v.</hi> 9, 10. they may proceed without control; onely being their Virgin-Daughter <hi>Sobriety,</hi> does behave her ſelf ſo looſely and uncivilly in this Chapter, that neither ſhe, nor any of her ſiſters, can be found in this Book untainted, according to their own confeſſion in the be<g ref="char:EOLhyphen"/>ginning of their Preface, we have little reaſon to ſuppoſe <hi>un<g ref="char:EOLhyphen"/>ſpotted Piety</hi> to have been the Author of their Treatiſe. So I pro<g ref="char:EOLhyphen"/>ceed.</p>
+            </div>
+            <div n="8" type="chapter">
+               <pb n="39" facs="tcp:102694:20"/>
+               <head>CHAP. VIII. <hi>Intituled three Motives.</hi>
+               </head>
+               <p>IN this Chapter they beg for the taking away of the Common-Prayer in this ſort.</p>
+               <p>
+                  <hi>Let us humbly crave you would be pleaſed for the love that you bear and owe to the Lord Jeſus; to the purity of his worſhip; to the thrivings of our bodies, ſouls, and eſtates; to the turning away of Gods judgements,</hi> &amp;c, <hi>by all theſe and many more, we again and again intreat you to pluck up the plant of the Service-Book, which God never ſet.</hi>
+               </p>
+               <p>What is all this, but according to their cenſure of our Letany, upon thoſe words, <hi>By thine agony,</hi> &amp;c. but a meer conjuring? for here they pray, as we there, by ſeveral motives, <hi>By the love you bear to the Lord Jeſus; by the love you bear to the purity of his worſhip,</hi> &amp;c. Yet theſe things here they count no conjuring, no more do I; but let me ask them, what equity there can be in condemning that in us, which they allow in themſelves? here's a poor Virgin ſhrewdly vitiated by them. Alas poor mother Piety, that haſt all thy daughters ſo often abuſed by thy pretend<g ref="char:EOLhyphen"/>ed friends!</p>
+               <p>The next of note in this Chapter, is an idle extravagant diſ<g ref="char:EOLhyphen"/>courſe which they make of Mr <hi>Womacke,</hi> which how eaſily ſoe<g ref="char:EOLhyphen"/>ver it might perhaps be anſwered, yet I will wholly paſs by for brevities ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke, and keep me to the work in hand; namely to the defence of the Common Prayer Book; for they confeſs them<g ref="char:EOLhyphen"/>ſelves at the end of this excurſion, <hi>That all this is nothing to the purpoſe,</hi> which might be as truely ſaid of a great deal more in their book though they do not confeſs it.</p>
+               <p>Againſt their next ſtroke, againſt the Biſhops, <hi>deſiring to have them and the book deſtroyed together, as being the upholders of one ano<g ref="char:EOLhyphen"/>ther;</hi> we ſhewed the vanity of that argument when they firſt mentioned it; of that therefore no more; for though I am forced by their want of method, to follow them ſometimes forward and b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ckward, yet do <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> live to ſay the ſame thing over and again in ſeveral words as they do.</p>
+               <p>Laſtly, then for their vain and needleſs diſcourſe of <hi>Chriſts go<g ref="char:EOLhyphen"/>verning</hi>
+                  <pb n="40" facs="tcp:102694:21"/> 
+                  <hi>his Church,</hi> which no man ever made queſtion of it, to their argument gathered thence againſt us, becauſe <hi>Chriſt hath appointed what we muſt have in Liturgy and Government.</hi>
+               </p>
+               <p>I anſwer to all in a word; Chriſt hath appointed in general that which all muſt, and we do follow; but he hath left the particu<g ref="char:EOLhyphen"/>lars of order and decency to his Church; elſe what ground could they have for any other Prayer then the Lords Prayer? or for any prayer at all before their Sermons, finding no precept or example of Chriſt or his Apoſtles in that kind in all the Scrip<g ref="char:EOLhyphen"/>ture?</p>
+               <p>This may ſuffice for the matter of all this Chapter, the title whereof is, of three motives, but we have hitherto met with never an one of them; they are now at laſt onely named in the end of the Chapter, and follow in the Chapters now to come. The firſt whereof they take from the <hi>example of others;</hi> the ſe<g ref="char:EOLhyphen"/>cond <hi>from the danger of not doint what they deſire;</hi> the third is <hi>from the covenant.</hi> The two firſt we have in the next Chapter, the laſt in Chapter ten. To which I come in their order.</p>
+            </div>
+            <div n="9" type="chapter">
+               <head>CHAP. IX. <hi>Of the Pattern.</hi>
+               </head>
+               <p>TO follow their diſorderly proceedings ſtill like themſelves, as in the former Chapter they intituled it, of three Mo<g ref="char:EOLhyphen"/>tives, and yet medled with never a one; ſo this Chapter they give the title of one motive onely, namely of the <hi>Patterne,</hi> and yet handle two; <hi>the Pattern for doing, and the danger of not doing what they would have done.</hi> Firſt then of the Pattern. Wherein 1. They tell us, <hi>that all the reformed Churches have done it.</hi> 2. <hi>They preſs us with the example of the Scots.</hi> To the firſt we anſwer, That their Allegation is not true, but they name ſome Churches that have done it, yet many more might be named which have not done it. 2. For the Scots, we are neither bound to follow their examples, nor any other further then they have done well, nor ſo far, if we ſhall not do well alſo in following; for it will not always hold that what is or hath been done well by ſome in ſome places, can be done well by all others in other places. I have no mind to cen<g ref="char:EOLhyphen"/>ſure other men and their actions, but will rather proceed to their
+<pb n="41" facs="tcp:102694:21"/> next motive. Onely I muſt touch one thing in a word which here they ſay, namely, <hi>They ſeem to hope for the bringing back of the King;</hi> which through the infinite mercy of God (bleſſed be his n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me for it for ever) we ſee now effected; if they deſired the Kings return before, or be glad of it now, it is done, let them expreſs ſo much in ſuffering him to be a King now he is returned, and not force or appoint him, how to govern that Church, which God as to a nurſing father hath committed to his charge. And ſo I come to the ſecond motive, <hi>the danger of not doing what they demand to be done.</hi> Which danger they propound to be looked upon in a twofold reſpect, <hi>a Priori,</hi> and <hi>a Poſteriori,</hi> from what is paſt, and what is like to enſue. The former they ſay is to be looked upon <hi>in way of prophecy, or in a way of performance.</hi> Con<g ref="char:EOLhyphen"/>cerning the former they tell us <hi>How the ſervants of God have pro<g ref="char:EOLhyphen"/>pheſied of the increaſe of Popery, and the ſuffering of true Religion, by many revolting in times of tryal.</hi> Now the ground of all this, if you will believe them, is the <hi>Common prayer, and the Biſhops, one up<g ref="char:EOLhyphen"/>holding the other;</hi> which later clauſe I have already refuted where they firſt mention it in their Preface, whether I refer the Reader; and for the former part faining the Biſhops and book to be ground of the increaſe of Popery, who ſees not the quite con<g ref="char:EOLhyphen"/>trary, that rather rebels and ſchiſmaticks have done it, Popery having got more ſtrength, and our Church more ſhame and ſlan<g ref="char:EOLhyphen"/>der in theſe late times they have born the ſway, then all the time ſince the reformation before? So that as it was a godly Prayer ſet forth to be uſed upon the fifth of <hi>November</hi> by Act of Parlia<g ref="char:EOLhyphen"/>ment to be uſed, that upon that horrible treaſon of the Papiſts, through the goodneſs of God ſo happily diſcovered, God would ſtrengthen the hands of our gracious King, the Nobles and Ma<g ref="char:EOLhyphen"/>giſtrates of the Land, with judgement and juſtice to cut off thoſe workers of iniquity; ſo we have as much cauſe to pray a<g ref="char:EOLhyphen"/>gainſt theſe deteſtable Sects and murderers of King and all Subjects which moſt ſtrangely oppoſed their damnable and deviliſh pro<g ref="char:EOLhyphen"/>ceedings; the cauſe of all which doings whether it were the Bi<g ref="char:EOLhyphen"/>ſhop and book, as theſe men would have it, or the rebellious minds of the enemies thereto, it is needleſs now to ſay; and whe<g ref="char:EOLhyphen"/>ther the chief want of a through reformation be not ſuffering ſuch ſpirits, rather then ſuffering the Biſhops and the book to remain, theſe late times have ſhewed, wherein the two later books and Biſhops have been all the while in a total Ecclipſe, and the former
+<pb n="42" facs="tcp:102694:22"/> rebels and Schiſmaticks ſhining in full and unlimited power and luſtre.</p>
+               <p>Next for future dangers they alledge <hi>Zions plea again,</hi> againſt which we muſt alſo again oppoſe the anſwer thereto.</p>
+               <p>In the reſt of this Chapter after much vain and idle railing ac<g ref="char:EOLhyphen"/>cording to their cuſtome, they come to particular dangers to thoſe to whom they write their book, if they obey them in an extirpation of the true pretended enemies; wherein they bring no new arguments, but uſe a flouriſhing exhortation to per<g ref="char:EOLhyphen"/>form the work they would have done, all which exhortation be<g ref="char:EOLhyphen"/>ing grounded onely upon the ſuppoſed unlawfulneſs of the book, proved as they think, by their <hi>undeniable arguments,</hi> as they call them, all thoſe arguments having been ſufficiently anſwered, and ſo no proof of any unlawfulneſs in the uſe of the book re<g ref="char:EOLhyphen"/>maining good, this brave exhortation falls of it ſelf, ſo that the third Motive onely is left.</p>
+            </div>
+            <div n="10" type="chapter">
+               <head>CHAP. X. <hi>Of the Covenant.</hi>
+               </head>
+               <p>COncerning the Covenant in general we need ſay but this. 1. As they moved men to break the Oath of Allegiance, and Canonical obedience, by ſaying (though moſt wickedly and falſely) <hi>That they were unlawful Oaths, and ſo better brok<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n then kept,</hi> that may we truely ſay to them concerning the Covenant, and ſo their mouthes ought to be ſtopped; and for the unlaw<g ref="char:EOLhyphen"/>fulneſs of that ſo unjuſtly and tyrannically impoſed Covenant, that it was utterly unlawful, may eaſily and clearly appear in theſe two reſpects.</p>
+               <list>
+                  <item>1. In that it was abſolutely forbid by our Dread Soveraign Lord the King then being.</item>
+                  <item>2. By the matter of it in it ſelf.</item>
+               </list>
+               <p>For the firſt, it is a truth without any queſtion or diſpute, that it is ſimply unlawful for any ſubjects though never ſo many and powerful to make any ſolemn League or Covenant concerning any innovation or alteration in government to be made by them without the Kings conſent; much more then when his Majeſty hath not onely given no conſent, but alſo declared abſolutely
+<pb n="43" facs="tcp:102694:22"/> againſt it, and peremptorily forbidden it, as we all know the King did, while the Covenant was in hand.</p>
+               <p>Secondly, for the matter of it, if any one particular in it were ſimply unlawful, the Covenant is thereby unlawful.</p>
+               <p>Now the extirpation of the Church-government by Archbi<g ref="char:EOLhyphen"/>ſhops and Biſhops in our Kingdom, where the Goſpel hath ſo long and ſo abundantly flouriſhed under it, the Kingdom with it, and by it; which Government alſo hath been even in the Church of Chriſt ſince the Primitive times, and is moſt agreeable to the word of God; the extirpation I ſay of this Government, and the ruine of all the officers therein, without any juſt cauſe or ground, but upon diſtaſt taken againſt ſome of them, which way it can be lawful, is not in imagination poſſible. Secondly, the Covenant be<g ref="char:EOLhyphen"/>ing one intire thing conſiſting of many branches, the principal point being wholly broken by the murther of the King, and the alteration and change of the fundamental Laws of the Realm, the whole Covenant is broken, void, and annihilated in reſpect of any tye upon thoſe which either took it voluntarily, or were by force or fear compelled to it.</p>
+               <p>Laſtly, If this Covenant were never ſo punctually obſerved, yet might the Common prayer book ſtill continue in uſe amongſt us, there being never a word in the Covenant concerning the aboli<g ref="char:EOLhyphen"/>ſhing of it. So for the Covenant in general this may ſuffice.</p>
+               <p>Now to the particulars which therein they inſiſt upon for the aboliſhing the book, wherein they divide the Covenant into three parts. 1. <hi>For the defence of Religion, the King and State.</hi> 2. <hi>For oppoſing Popery and Popiſh innovations.</hi> 3. <hi>To maintain the peace of the three Kingdoms, of</hi> England, Scotland, <hi>and</hi> Ireland.</p>
+               <p>Hence they draw theſe two arguments. 1. <hi>If all Popery,</hi> &amp;c. <hi>be to be oppoſed, then it follows that our Liturgy and ceremonies muſt be oppoſed; but the former is to be done; therefore the later.</hi>
+               </p>
+               <p>We deny the conſequence, becauſe no ſuperſtition or Popery hath been proved to be in our book and ceremonies, as by this anſwer conferred with the charge by them drawn is evident enough.</p>
+               <p>Then for their new additional proof here, to make theſe things ſuperſtitious, <hi>Becauſe by Chriſt they are not commanded;</hi> We anſwer if they mean expreſly, <hi>&amp; totidem verbis</hi> appointed by Chriſt; they may as well except againſt our Churches, Gowns, Pulpits, reading-Deskes, <hi>&amp;c.</hi> none of which Chriſt particularly
+<pb n="44" facs="tcp:102694:23"/> commanded to be uſed; but we muſt tell them alſo, that although none of theſe are particularly appointed by Chriſt to us, nor ge<g ref="char:EOLhyphen"/>nerally by Chriſt appointed to the whole Church throughout the world; yet none of theſe being forbidden to any Church, and being by the authority of our Superiors commanded in our Church, they and all other ceremonies ſo commanded, and by Law eſtabliſhed amongſt us, are by Chriſt conſequently and me<g ref="char:EOLhyphen"/>diately commanded by thoſe places which command us to be ſubject to authority, and to do all things without murmurings or diſputings; as <hi>Rom.</hi> 13. 1. <hi>Phil.</hi> 2. 14. with other places for<g ref="char:EOLhyphen"/>merly quoted.</p>
+               <p>The ſecond argument is, <hi>From our mutual Oath between us and the Scots to maintain the peace of the three Kingdomes, which the Scotch Commiſſioners are perſwaded cannot be maintained without unity in the worſhip of God, and ſo conſequently</hi> (as theſe men would bear us in hand) <hi>without our conformity to the Scots.</hi> But who ſees not, that it may as well be by their conformity to us? And they that are bound to endeavor a unity and conformity among three, muſt needs ſee it more likely and more reaſon<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ble to bring one to two, then two to one; but all this may now be very well ſpared; for the Scots have ſufficiently declared that they preſs not this Covenant as theſe men do, but will be in perfect love and peace with us, enjoying our Liturgy and Government with us eſtabliſhed, and themſelves enjoying their own; and ſo to preſs the Cove<g ref="char:EOLhyphen"/>nant by any of them as to reach to us, they make no better reaſon in them that ſhall do it. If therefore theſe men would be as rea<g ref="char:EOLhyphen"/>ſonable as deſirous of peace and quiet as the Scots, we ſhould hear no more of this matter. Thus having done with the two argu<g ref="char:EOLhyphen"/>ments drawn from the Covenant, they bring two more; <hi>One from Eraſmus, another for Smectymnuus:</hi> The firſt whereof, they ſay, tells us, <hi>That we are not onely to aboliſh things evil in themſelves, but th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe alſo that have any appearance of evil, for which they needed not have made any uſe of humane authority, St.</hi> Paul <hi>ſaith enough in that kind; and ſo that matter no man can deny;</hi> but this is nothing <note place="margin">1 Tim. 1. 22.</note> to their purpoſe, to move againſt our Book of Common Prayer or Epiſcopacy, no appearance of evil being in either of them to men of judgement and underſtanding that way; but if every particular weak ignorant man ſhall be admitted as a judge of what is good or evil either truely or in appearance, there will be no worſhip of God at all allowed of, witneſs ſo many under-Sects
+<pb n="45" facs="tcp:102694:23"/> miſliking the Covenant, the Directory, and many other things which the great Architectaries allow and highly approve of; onely all in general miſlike Government, order, decency, and whatſo<g ref="char:EOLhyphen"/>ever is not their own invention, and ſo concerning particulars are ready to fall together by the ears among themſelves, though all preſently ready to joyn againſt what they call the <hi>common enemy,</hi> that is, truth it ſelf, Law, Monarchy and Epiſcopacy, the Defen<g ref="char:EOLhyphen"/>ders and m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>intainers of it.</p>
+               <p>Next for that of <hi>Smectymnus,</hi> we anſwer in a word, that removing of ſuch factious ſpirits, and Incendiaries, would quickly ſettle a more happy peace and uniformity in the Church, then ever the removing of the Common Prayer book can do.</p>
+               <p>Laſtly, they come in this Chapter to the <hi>Surplice,</hi> In which to omit idle words, the argument they uſe againſt the <hi>Surplice,</hi> is this,</p>
+               <p>
+                  <hi>If the Surplice be mans device, and hath been an Idol in Gods worſhip, it muſt be ſo ſtill; but our Surplices are of ſuch; therefore they are ido's ſtill.</hi>
+               </p>
+               <p>To this firſt, we deny the conſequence, for there is no neceſſi<g ref="char:EOLhyphen"/>ty that any thing that hath been abuſed once muſt be ſo abuſed al<g ref="char:EOLhyphen"/>ways, or elſe deſtroyed; the abuſe may be taken away, and the thing continued in its being ſtill, and a lawful uſe made of it. A very Crucifix, or any Saints picture worſhipped by Papiſts, taken into our houſes, and kept onely as an ornament or picture to deck a room, is no longer an Idol. Our Churches we<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e all in time of Popery abuſed to groſs Idolatry, but are, bleſſed be God, neither demoliſhed, nor ſo abuſed now. The Surplice alſo was ſo abuſed among the Papiſts once in this very Land, but is not ſo now, be<g ref="char:EOLhyphen"/>ing not uſed as any invention of man neceſſarily to be added to make Gods worſhip and ſervice to be compleat and perfecter then it could be without it, but is onely uſed as an ornament indifferent in it ſelf, and onely neceſſary, where and when it is commanded in reſpect of the command onely, and not of any thing in it ſelf; and were it by authority forbidden, as it is commanded, it were the ſame ſin then to uſe it, that now it is not to uſe it. Then for the Minor, I anſwer again that is falſe; alſo our particular and in<g ref="char:EOLhyphen"/>dividual Surplices which we now wear, never were Idols, nor ever can be, if uſed no otherwiſe then we are commanded to uſe them; and for the riſe and original of the Surplices, we anſwer, that we retain them not as reliques of Popery or ſuperſtition,
+<pb n="46" facs="tcp:102694:24"/> neither take we them up from the Papiſts, but from the ancient uſe of them in the true Church of Chriſt, which uſed them be<g ref="char:EOLhyphen"/>fore ever they were idolized by Papiſts, or railed upon by Schiſ<g ref="char:EOLhyphen"/>maticks.</p>
+            </div>
+            <div n="11" type="chapter">
+               <head>CHAP. XI. Entituled, <hi>The Objections.</hi>
+               </head>
+               <p>HEre they tell us, <hi>They will remove ſome Objections, wherein they will ſhew them to be of no great weight,</hi> and there ſay, <hi>they will uſe but few words.</hi> And I believe indeed, that ſuch Ob<g ref="char:EOLhyphen"/>jections or Arguments as they will bring forth for themſelves to anſwer, ſhall have no great weight in them, leſt they ſhould take upon them ſuch a burden, as they are neither able to bear, nor to caſt down ag<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in handſomely, after they have once taken it up. Briefly therefore running over the Arguments here brought, and their anſwers to them, I ſhall at laſt uſe ſome Arguments my ſelf, for the continuance of our Liturgy among us, as well as they have done for the aboliſhing of it; but firſt to their Ob<g ref="char:EOLhyphen"/>jections.</p>
+               <p>The firſt, they bring <hi>from the antiquity of it;</hi> to which they tell us <hi>Smectymnuus hath anſwered,</hi> whom I never ſaw, and ſo know not what his anſwer is, and ſo can ſay nothing to him. But whereas they anſwer here, <hi>That antiquity without truth is nothing:</hi> I grant that, but tell them withal, this is nothing to their purpoſe; becauſe, what is moſt ancient, muſt be ſuppoſed moſt true till the contrary be proved: Therefore their anſwer to the antiquity of this Book, is nothing againſt it, till they have proved the unlawfulneſs of it a little better then yet they have done.</p>
+               <p>Secondly, They ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, <hi>Many good men have liked it:</hi> To which they anſwer, <hi>That their approbation is not ſufficient.</hi> To this I rejoyn, nor is their miſliking and railing at it, enough to con<g ref="char:EOLhyphen"/>demn it: For though they brag of more light then our forefathers (this new light is the common argument in theſe days for all things done againſt the old light of Gods Word) yet all their l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ght hath not ſhewed them how to frame ſuch a Liturgy as we
+<pb n="47" facs="tcp:102694:24"/> have received from our forefathers; and till they have made a better, they might be content with this.</p>
+               <p>Thirdly, They ſay <hi>Our Book hath many good things in it;</hi> but anſwer, <hi>So hath the Alcoran and the Talmud.</hi> But we reply, that thoſe Books, if they have ſome good things in them, which they are pleaſed to call many, yet they are not many in reſpect of the evil with which they abound; but our Book abunds with good, if not free from ſome defaults: The denomination then being to be taken from the greater part, our Book, and ſo the <hi>Apochry<g ref="char:EOLhyphen"/>pha,</hi> which here they alſo gird at, are to be called good, and the other two evil.</p>
+               <p>Fourthly, <hi>It is better to amend then to caſhiere.</hi> To this firſt, <hi>They ſuppoſe an impoſſibility of amending.</hi> Secondly, They ſay, <hi>It is contrary to Gods courſe, who commands the Altars to be thrown down, &amp;c</hi> To this we ſay, It is a vain and groundleſs ſuppoſition that every thing amiſs in our Liturgy, might not eaſily be amend<g ref="char:EOLhyphen"/>ed. Neither is it to be doubted, but that they whom it concerns would ſooner amend what is diſtaſtful to any quiet and moderate men, if the violent oppoſition of troubleſome and factious ſpirits not hinder it, by the unreaſonableneſs of their demands; whom when nothing in that kinde done can ſatisfie, it is to no purpoſe in reſpect of them, to do any thing.</p>
+               <p>To the ſecond we anſwer, concerning Gods command to cut down the Altars, burn the Groves, &amp;c. the caſe is very far dif<g ref="char:EOLhyphen"/>ferent from ours here: Thoſe Groves and Altars were directly againſt the expreſs command of God, for worſhipping onely in the place by himſelf choſen, namely the Temple at <hi>Jeruſalem.</hi> And again, there is great difference between that Idolatrous wor<g ref="char:EOLhyphen"/>ſhip, and ſome defects and imperfections in the right worſhip of the true God. Laſtly, It is not Gods courſe always in cor<g ref="char:EOLhyphen"/>recting abuſes, rather to aboliſh the thing, then to take away the abuſe; for we know our Saviour ſpeaking againſt the abuſes in Faſting, Prayer, and Alms, does not take them away, or forbid any of them, but ſhews how to amend the abuſes: And to make their anſwer good here, they muſt plead againſt our Churches, as well as our Liturgy.</p>
+               <p>To the fifth, <hi>This Book,</hi> they ſay, <hi>hath Acts of Parliament to confirm it.</hi> To which they anſwer, firſt, <hi>That this Book is not eſta<g ref="char:EOLhyphen"/>bliſhed by Act of Parliament.</hi> Secondly, <hi>That the thing it ſelf be<g ref="char:EOLhyphen"/>ing ſimply evil, no Act can make it good.</hi>
+               </p>
+               <pb n="48" facs="tcp:102694:25"/>
+               <p> To theſe we ſay again, The Act before the Book, is plain; but they tell us, <hi>The Books we now uſe, have been altered ſince the Act, and ſo the Act is not for them.</hi> To this we anſwer, If there be any ſuch alterations in the Books, that by the ſtrictneſs of Law, or tricks of Lawyers, the Act cannot take ſuch hold of Non-con<g ref="char:EOLhyphen"/>formiſts, as to make them liable to the penalties there appointed; yet in conſcience, whatſoever is not altered in the Book, is by vertue of that Act obediently to be obſerved, and yielded to the intention of the Law-giver, being as much or more to be regard<g ref="char:EOLhyphen"/>ed, then the Letter of the Law. And again, thoſe alterations being made according to Law, that is, by a Commiſſion given forth by His Majeſty then being, King <hi>James</hi> of Bleſſed memory, under the Broad Seal of <hi>England,</hi> to the Lord Archbiſhop of <hi>Canterbury,</hi> and others, according to the form which the Laws of this Realm preſcribe to be uſed (as we ſee in His Majeſties Proclamation before the Book of Common Prayer) all are as much bound to obſerve the Book ſo altered, as if no alteration at all had been made in it.</p>
+               <p>To the ſecond anſwer we ſay, That the ſuppoſition there made of the evilneſs of the Book, hath been by my anſwer ſo taken away, that the ground of this anſwer fails.</p>
+               <p>And ſo I have at laſt done with their <hi>Five undeniable Argu<g ref="char:EOLhyphen"/>ments,</hi> as they call them, and their three Motives for the taking off our Common Book, and the Anſwers to the Objections which they were pleaſed to bring againſt themſelves. There remains now onely to take a view of their opinion concerning any Litur<g ref="char:EOLhyphen"/>gy at all, or any ſet form of Prayer; for if theſe two be unlaw<g ref="char:EOLhyphen"/>ful, it is a ſufficient Argument againſt the Common Prayer Book.</p>
+               <p>In delivering their opinion herein, they ſay, <hi>They will anſwer theſe two queſtions.</hi> Firſt, <hi>Whether they do allow of any ſet Prayers in a more private way?</hi> Secondly, <hi>Whether of any ſet Liturgy?</hi> To which two queſtions, they might very well have ſpared their pains in anſwering, we not much caring for their opinions herein; yet ſeeing they would thus expreſs themſelves, we will ſee what they ſay, and deliver our mindes thereto.</p>
+               <p>Firſt, They ſay, <hi>They allow the ignorant onely ſet forms of Prayer in private.</hi> To which, if by theſe ſet forms they mean ſet pray<g ref="char:EOLhyphen"/>ers made by others, we are willing with them to allow them one<g ref="char:EOLhyphen"/>ly to ſuch as cannot make better themſelves; but in general to
+<pb n="49" facs="tcp:102694:25"/> uſe ſet forms for the very beſt of men, is not onely lawful, but very good, and moſt carefully to be done, that we may obſerve that of the wiſeſt of men, <hi>Eccleſ.</hi> 5. 1.</p>
+               <p>For the ſecond. <hi>A ſet Liturgy they ſay they allow in general;</hi> but come to the particular uſe of any particular Liturgy, they flee off again, and will have their ſet Liturgy, <hi>onely a pattern for a Liturgy,</hi> made it ſeems <hi>ex tempore</hi> every time; becauſe <hi>the words</hi> they tell us, <hi>muſt follow the affections, and not the affections the words.</hi>
+               </p>
+               <p>In this they do but dally with us, making our Liturgy no Litur<g ref="char:EOLhyphen"/>gy, and turn publick Prayers into private; every one by this means, as their affections are different, ſo praying differently; whereas in publick Prayers all muſt pray at the ſame time the ſame prayer, or elſe there is not one common and joynt prayer of all, but ſeveral prayers as ſeveral perſons. And for their Ar<g ref="char:EOLhyphen"/>gument, <hi>that the words ſhould follow the affections;</hi> that may as well be in a ſet prayer, as in an <hi>ex tempore</hi> one: For the heart does firſt conceive the prayer, and then frames words to expreſs it by. Now ſuch prayers being made, and read, and known to all, ſo that all have them by heart, they do thereunto firſt con<g ref="char:EOLhyphen"/>form their affections, and praying with the Miniſter, their words inwardly conceived, if they ſpeak not, or alſo outwardly uttered, if they ſpeak, do follow the affections of their hearts. If they ſay this is not enough, but every mans private affections ſhould be the rule or guide of his words and prayer; I anſwer then, that if there be never ſo many praying at the ſame time, in the ſame place, they differing in their affections, and ſo in their inward or outward words, <hi>viz.</hi> their ſeveral forms of prayer, there are but ſo many ſeveral private prayers made, and not one joynt publick prayer by all. And there is no more efficacy in the prayers of them in the Church, then in ſo many particular prayers elſwhere: For theſe prayers want the condition by our Saviour expounded, <hi>Matth</hi> 18. 19. and ſo cannot truly claim the promiſe there made. Thus I have done with their Book, in reſpect of the ſum or ſub<g ref="char:EOLhyphen"/>ſtance, which I have fully anſwered, their extravagancies and railings lightly paſſed by; I will adde no more to all they ſay but this, <hi>If any man deſire to be contentious, we have no ſuch cuſtom, nor the Churches of Chriſt,</hi> 1 <hi>Cor.</hi> 11. 16.</p>
+            </div>
+            <div n="12" type="chapter">
+               <pb n="50" facs="tcp:102694:26"/>
+               <head>CHAP. XII. <hi>Arguments for our Common Prayer Book.</hi>
+               </head>
+               <p>HAving hitherto anſwered what hath been ſaid againſt our Liturgy, and now deſirous to ſay ſomewhat more for it; I have thought it beſt briefly to draw ſome Arguments for it from the ſame heads, whence the Unmaskers have fetched all the matter they have brought againſt it; namely, from the <hi>name</hi> of it; the <hi>original</hi> of it; the <hi>matter</hi> contained in it; the <hi>manner</hi> of uſing it, and the <hi>effects</hi> of it upon our whole Land. By all which I hope, they whom it may concern, will correcting what they ſee cauſe, not totally deſtroy, but continue our Liturgy, and Church Government.</p>
+               <p>Firſt then I will begin with the <hi>name;</hi> not the ignominious name of Maſs which they would caſt upon it, but the name which it owns, and we all call it by; And that's the name of <hi>The Common Prayer Book,</hi> a name challenging all liking and acceptation, con<g ref="char:EOLhyphen"/>ſidering the excellency and efficacy of the common and publick prayers of all, above the particular and private prayers of any one, how holy or pious ſoever he be. If Chriſt promiſe, as we know he does, <hi>Matth.</hi> 18. 19, 20. <hi>That where two or three be ga<g ref="char:EOLhyphen"/>thered together, &amp;c.</hi> how much more will he be preſent with a whole congregation, or a whole Land publickly with the ſame deſires, words, and affections, calling upon him, and praiſing his name? If then the nick-name of a Maſs, odiouſly by our enemies caſt upon our Liturgy, make it ſeem to ſome diſtaſteful; yet let its own proper name rightly belonging to it, cauſe us in that reſpect, that it is a Book of Common Prayer for us all, cauſe us in that reſpect to love and eſteem it, and to deſire the continued uſe of it among us.</p>
+               <p>Secondly for the <hi>original.</hi> This Book had its firſt riſe and origi<g ref="char:EOLhyphen"/>nal from the ancient fathers of the Church in the Primitive times, long before Popery was known or thought of, and its immediate original here, as it is now with us, from the very beginning of that bleſſed Reformation, which we ſtill by the mercy of God enjoy, and except the interruption of ſome few years in the days of
+<pb n="51" facs="tcp:102694:26"/> Queen <hi>Mary,</hi> and in the late rebellions and diſtractions amongſt us, we have ſtill, bleſſed be God, retained and flouriſhed under it. Out of the reſpect then to our bleſſed Anceſtors of former times, and our Predeceſſors here, that firſt eſtabliſhed this Book, and for the happy continuance of it, from the very beginning and firſt ſetling of the true Proteſtant Religion in <hi>England,</hi> let us love this Book, and with thankfulneſs for it, diligently uſe and conſtant<g ref="char:EOLhyphen"/>ly retain it.</p>
+               <p>Thirdly for the <hi>matter</hi> of it, that ought to be a more preva<g ref="char:EOLhyphen"/>lent argument for it then both the former; for had it never ſo good a name, if that name were diſſonant from its nature, I could not urge it; or had it never ſo good a beginning in the reſpects forementioned, yet were the matter of it nought, the good ef<g ref="char:EOLhyphen"/>ficient cauſe would not ſufficiently make amends for the evil ma<g ref="char:EOLhyphen"/>terial cauſe; but if that be as or more excellent then the other, ſure then may it well move us to regard it. What then is the matter of this Book? wholly prayers made onely to God himſelf, through the mediation of no Saints, or Angels, but onely through Jeſus Chriſt, whom Gotappointed the ſole and abſolute Media<g ref="char:EOLhyphen"/>tor between him and us.</p>
+               <p>Secondly, We have the Word of God read in it to inſtruct and teach us in the knowledge and ſervice of God, which he is plea<g ref="char:EOLhyphen"/>ſed to impart to us, and require of us.</p>
+               <p>Thirdly, Songs and Hymnes of praiſe and thanks to God, ei<g ref="char:EOLhyphen"/>ther Divine and Canonical parts of the Scripture it ſelf, or made by holy men, altogether conſonant to the Word of God in he Scripture.</p>
+               <p>Fourthly, Confeſſions of Faith, briefly compriſing the main, chief, and principal points which a Chriſtian is bound to believe, and to profeſs to ſalvation.</p>
+               <p>This is generally the matter of our Common Prayer Book; which matter is ſo, and in ſuch order and manner ſet down, and ſo diſpoſed of; and every thing in the Book appointed to be uſed in ſuch admirable manner and order, that from thence, we have another ſtrong argument for the maintenance and retaining of the Book.</p>
+               <p>Fourthly, Therefore I come to the excellent <hi>manner</hi> and order of uſing this book, and uſed in this book; concerning which I muſt take a brief view of the order appointed, and ſo deliver it unto you.</p>
+               <pb n="52" facs="tcp:102694:27"/>
+               <p> Firſt, when we are come into the houſe of God for his publike worſhip and ſervice, how can we better begin this ſacred work, then with ſome words out of the Word of God himſelf? This is without controverſie; but with what words we ſhould begin, or what piece of Gods word is fitteſt to be the firſt word that ſhould be ſpoken in his houſe, is perhaps more difficult to be ab<g ref="char:EOLhyphen"/>ſolutely determined; that therefore is not abſolutely appointed, and to all enjoyned, but in this kind ſome liberty left to the Mini<g ref="char:EOLhyphen"/>ſters diſcretion at every particular time and occaſion. If any man think it moſt fit to begin with ſome ſhort prayer he may; to this end we have theſe ſentences, <hi>Turn thy face away from our ſins, O Lord, and correct us, O Lord; and yet in thy judgement,</hi> &amp;c. If it be thought more fit to move the people a little to humility in re<g ref="char:EOLhyphen"/>ſpect of their ſins, that they more earneſtly mind this ſacred duty they are met about, we have to that purpoſe, <hi>Rent your hearts and not your garments,</hi> &amp;c. <hi>If we ſay that we have no ſin, we deceive our ſelves,</hi> &amp;c. <hi>I will go to my father and ſay,</hi> &amp;c. If thirdly ſome think it more needful firſt to propound comfort and conſolation, that the people, may with the more faith call upon God, and ſerve him with the more heart and ſpirit, we have to that end, <hi>At what time ſoever a ſinner doth repent,</hi> &amp;c. So that beginning the ſervice of God with the word of God in the houſe of God, we have ſeveral ſen<g ref="char:EOLhyphen"/>tences for ſeveral times and ſeveral occaſions to be uſed, as is moſt convenient at any time. Then follows moſt fitly a brief, but grave and ſerious exhortation to put the people in mind of, and ſtir them to that duty which they are come together about. After which immediately they make a moſt excellent, ſhort and pithy confeſſi<g ref="char:EOLhyphen"/>on of their ſins, humbly kneeling upon their knees. After confeſ<g ref="char:EOLhyphen"/>ſion we know follows abſolution, according to that of <hi>Solomon, Prov.</hi> 28. 13. and of <hi>David.</hi> So then proceeds our Liturgy to a Declaration of Gods pardoning the penitent, by which we are <note place="margin">Pſal. 32. 3.</note> all the more heartned and encouraged with faith to pray to God for all things neceſſary to ſoul or body; we do this therefore pre<g ref="char:EOLhyphen"/>ſently in that form of Prayer which our Saviour himſelf taught us. Having thus faithfully prayed, and not doubting but what we have faithfully asked, ſhall effectually be obtained; we are bound in the next place, as reaſon as well as Religion will teach us, to praiſe God for this his mercy toward us, which we being not able to do without Gods aſſiſtance, we do firſt deſire him to <hi>open our lips, that our mouth may ſhew forth his praiſe;</hi> and through our earneſt deſire
+<pb n="53" facs="tcp:102694:27"/> preſently to perform this holy duty, we deſire God to <hi>make ſpeed and haſte to help us</hi> in this kind; and then with a ſhort doxology expreſſing our faith in and of the Trinity, we proceed to <hi>Pſalms</hi> of praiſe.</p>
+               <p>Firſt, we have one ſet <hi>Pſalm</hi> every day, being a <hi>Pſalm</hi> of ſpeci<g ref="char:EOLhyphen"/>all note to ſtir up to this holy duty; and then every day ſeveral <hi>Pſalms</hi> in ſuch order, that the whole Pſalter is read through once every moneth. Having thus far proceeded in this excellent man<g ref="char:EOLhyphen"/>ner and order, we muſt not yet leave thus, but becauſe he that goes not forward in Religion daily, will quickly go backward, we muſt endeavor daily to increaſe in the knowledge of God, which will be by reading and hearing the word of God, and that chiefly in the houſe of God; therefore in the next place we have two Leſſons read to us, one out of the old Teſtament, another out of the new; and between thoſe Leſſons, and after them, excel<g ref="char:EOLhyphen"/>lent Hymns of praiſe and thankſgiving to God, in ſending our Saviour eſpecially, and alſo for all his mercies and favours, ſpiri<g ref="char:EOLhyphen"/>tual or temporal to our ſouls or bodyes; let any man of reaſon and judgement now ſay if our book do not orderly lead us all this way; yet here I confeſs is not enough; as we do diligently and daily learn ſomewhat out of the Word of God, in the houſe of God; ſo it is moſt fit we ſhould there alſo ſhew what we have learned, and make ſome profeſſion and confeſſion; next there<g ref="char:EOLhyphen"/>fore moſt fitly follows a ſolemn and publike confeſſion of our Chriſtian faith, compriſed in the Creed, which we are all to ſay with the Miniſter, and that ſtanding, which geſture is moſt con<g ref="char:EOLhyphen"/>venient in theſe two reſpects.</p>
+               <p>Firſt, to declare our readineſs and willingneſs to make that con<g ref="char:EOLhyphen"/>feſſion, and that we do all joyn in it, which if we ſat ſtill could not ſo eaſily be perceived, it being an eaſie thing to obſerve who ſtand and who ſit, but hard to ſee who ſpeaks, and who do not.</p>
+               <p>Secondly to teſtifie by this geſture of ſtanding up, that this faith we are not afraid or aſhamed publikely to ſtand to, but that this we are ready to maintain and defend againſt all oppoſition whatſoever, as that f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ith we will live and dye in.</p>
+               <p>Laſtly after all this thus devoutly, decently, and reverently per<g ref="char:EOLhyphen"/>formed; how can we better conclude this holy work then with prayer altogether unto God, to confirm, ſettle, ſtrengthen, and eſtabliſh us in that holy Faith which we do profeſs, and have now
+<pb facs="tcp:102694:28"/> made confeſſion of; and to <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>aſe our knowledge, and to grant us all mercies and favours <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ful for ſouls and bodies, and to keep us from evils, to the one or to the other? In which prayers firſt we begin with a mutual ſhort prayer of the Miniſter and peo<g ref="char:EOLhyphen"/>ple each for other, to teſtifie each to other their perfect love and charity one to another, that ſo they may the more cheerfully and unanimouſly joyn as one in the enſuing prayers; in which after a brief praying for Gods mercy in general, we begin again. Firſt with the Lords prayer, the moſt abſolute and perfect pattern for all our prayers. Then after ſome few ſhort ejaculations of the Mini<g ref="char:EOLhyphen"/>ſter and the people anſwering, which is an eſpecial means to rouſe and ſtir up the dull affections of the people, ſubject to be weary and faint in holy duties, we proceed to the ſet and ſolemn prayers en<g ref="char:EOLhyphen"/>ſuing. The firſt of which is varied every day almoſt, and upon the moſt ſolemn and great days fitted to the day, as the preſent occaſion requires; and ſo on every particular holy day. The other prayers for peace, grace, encreaſe of knowledge, and protection againſt perills and dangers, and ſo the prayers for the King, <hi>&amp;c.</hi> being moſt neceſſary at all times, are every day to be uſed; and af<g ref="char:EOLhyphen"/>ter all, the bleſſing pronounced to all.</p>
+               <p>Thus I have briefly touched upon you ſee, our excellent way and manner of ſerving God according to our Common Prayer book appointed daily. It would be no difficult matter to run through all the other matters in that book, as the adminiſtration of the Sacraments, ſolemnization of Matrimony with all the other Rites and Ceremonies; I deſiring brevity, this may ſuffice for this my fourth argument for the Liturgy, the excellent order and manner of uſing it.</p>
+               <p>I come now to the fifth and laſt argument for it, the bleſſed and happy effects of this our worſhipping and ſerving God in this ſort from the beginning of the Reign of that never enough praiſed and admired Queen <hi>Elizabeth</hi> of bleſſed and eternal memory. How wonderfully did the Lord bleſs and preſerve her with a long, happy, and proſperous Raign that did eſtabliſh and ſettle this Li<g ref="char:EOLhyphen"/>turgy in her Kingdoms? How did the whole Nation flouriſh in piety, peace, and proſperity under her Government? ever ſince her Raign began, during the time of it, and ſince the end of it, no Nation in the Chriſtian world hath received more, and more miraculous mercies and favors from Gods hand then our Nation. We have abounded in honor, glory, and eſtimation abroad, en<g ref="char:EOLhyphen"/>creaſed
+<pb n="55" facs="tcp:102694:28"/> abundan<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly in wealth, learning and knowledge at home; We have h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d as excellent and powerful preaching, and as frequent; as learned and pious books written as any place in the world. We have had ſuch uniformity and decency in the worſhip and ſervice of God, as no Church in Chriſtendom more, till of late d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yes, wherein this book, and our Biſhops and Church Government by them have been cryed down, and thruſt by force and violence a<g ref="char:EOLhyphen"/>gainſt all reaſon, conſcience, and Laws of God and man out of their places; and our Church; during which time of their exi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, what treaſons, rebellions, murder, and all horrible acts of pro<g ref="char:EOLhyphen"/>phanneſs, and abominable impiety have abounded in the Land no tongue can expreſs. What ſtrange Sects have riſen? how hath Popery increaſed? how inſolency and ignorance, under pretence of new light hath overſpread a great part of the Land, woful experience hath ſhewed more then I am able to expreſs. Theſe effects may juſtly be imputed to the want of Biſhops, and a Set form of divine worſhip amongſt us; for immediately upon the abolition of them they began to grow, and encreaſed all the time of their much lamented abſence, and now through the great mer<g ref="char:EOLhyphen"/>cy of God, ſince the reſtoring of them, they are much abated and decayed daily; and by the continuance of them now again a<g ref="char:EOLhyphen"/>mongſt us, in ſome reaſonable time, if without interruption or di<g ref="char:EOLhyphen"/>ſturbance, it pleaſe the Lord of his infinit goodneſs to continue this bleſſing to us, we doubt not by the gr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce of God the falling down, or vaniſhing away of all theſe Sects again; The book being an eſpecial help to the ſimple and ignorant in the worſhip and ſervice of God, and the authority of the Biſhops, an approved and ef<g ref="char:EOLhyphen"/>fectual means to keep under the inſolency and perverſneſs of will<g ref="char:EOLhyphen"/>ful diſturbers of the Churches peace; which happineſs that we may enjoyn again, as we have formerly had it, as we are daily to beg and crave at the hands of Almighty God, with earneſt and unceſſant prayers; ſo do we humbly for the concluſion of this Treatiſe, deſire of his ſacred Majeſty, and the moſt reverend Fa<g ref="char:EOLhyphen"/>thers in God, the Lords Arch-Biſhops, the right reverend Fa<g ref="char:EOLhyphen"/>thers in God the Lords Biſhops of our Church, by his Majeſty chiefly intruſted in this buſineſs, and by the Law of God; and of this chiefly, with the inſtructing and teaching of his people, and governing his Church, that amending whatſoever in their wiſdom they ſee fit for the glory of God, the good of this Church of <hi>England</hi> in general, and the ſatisfactions of the minds,
+<pb n="56" facs="tcp:102694:29"/> deſires and conſciences of the peaceable and weak, but faithful members thereof, they would ſtill continue our Liturgy, which we have had ſo long among us, and ſo happily flouriſhed under, and with which God of his mercy grant that this Church and State may ſtill flouriſh and proſper to the end of the world. <hi>Amen.</hi>
+               </p>
+               <closer>
+                  <dateline>
+                     <date>
+                        <hi>May</hi> 2. 1661.</date>
+                  </dateline>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="collection_of_quotes">
+            <pb n="57" facs="tcp:102694:29"/>
+            <head>A Collection of ſome choice Expreſ<g ref="char:EOLhyphen"/>ſions of the Equity, Charity, Sobriety and Loyalty, the four Virgin Daughters of the unſpotted Piety of theſe unknown Unmaskers of our Common Prayer Book.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell>1. THe Service Book is evinced to be a rank Impoſtor in Gods worſhip, and a violent intruder into the houſe of God. <hi>To the Reader,</hi>
+                     </cell>
+                     <cell>
+                        <hi>Pag.</hi> 1.</cell>
+                  </row>
+                  <row>
+                     <cell>2. The ſaid Book is called, <hi>The overwhelming ſtorm of the purity of worſhip.</hi>
+                     </cell>
+                     <cell>
+                        <hi>Chap.</hi> 1. <hi>p.</hi> 1.</cell>
+                  </row>
+                  <row>
+                     <cell>3. It is called, <hi>A Superſtitious and Popiſh Liturgy.</hi>
+                     </cell>
+                     <cell>
+                        <hi>ibid.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>4. If our Liturgy be not a Maſs of Superſtition, and Superſtitious Ceremonies, we know not what Superſtition is.</cell>
+                     <cell>
+                        <hi>p.</hi> 3.</cell>
+                  </row>
+                  <row>
+                     <cell>5. Kneeling at the Communion is ſaid to be the ſtaff and ſtrength of that abominable Idol, the Breaden God.</cell>
+                     <cell>
+                        <hi>ibid.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>6. Our Service-Book is called <hi>The Mother of that Hydra of the Scotiſh Liturgy, and the yong Dragon in that Nation, and the Maſs-Book, the Mother of our and theirs too.</hi>
+                     </cell>
+                     <cell>
+                        <hi>ibid.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>7. Except our Liturgy had been full of Serpents, it could not have hatched the Dragon that was ſent into <hi>Scotland.</hi>
+                     </cell>
+                     <cell>
+                        <hi>ibid.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>8. The Superſtitions of this Book are ſuch, and ſo many, that we may apply that ſaying, <hi>That it is not onely hurtful and dangerous, but curſed and execrable.</hi>
+                     </cell>
+                     <cell>
+                        <hi>P.</hi> 4.</cell>
+                  </row>
+                  <row>
+                     <cell>9. Their Liturgy (that is, the Papiſts) is the very Lethargy of wor<g ref="char:EOLhyphen"/>ſhip; and what difference between ours and theirs? Truly nothing but a pair ſheers betwixt them, and putting ours in a coat of an<g ref="char:EOLhyphen"/>other tongue.</cell>
+                     <cell>
+                        <hi>Chap.</hi> 2. <hi>p.</hi> 5.</cell>
+                  </row>
+                  <row>
+                     <cell>10. What reaſon is there, that we ſhould groan under the burden of a Liturgy borne in upon us, under the name and nature of a Maſs, which is nothing but a maſs of Idolatry, and an Idol of abomina<g ref="char:EOLhyphen"/>tion.</cell>
+                     <cell>
+                        <hi>ibid.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>11. The Service-Book is the main engine; it is the ſaddle, and we the aſſes, &amp;c.</cell>
+                     <cell>
+                        <hi>Page</hi> 6. <hi>from the middle to the end.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>12. Though <hi>Ave Maria</hi> be not actually in it, (namely, in our Litur<g ref="char:EOLhyphen"/>gy) yet if purpoſe had holden, it was more then in a fair poſſibility to have been the head-corner ſtone of the Liturgy.</cell>
+                     <cell>
+                        <hi>Chap.</hi> 3. <hi>p.</hi> 8.</cell>
+                  </row>
+                  <pb n="58" facs="tcp:102694:30"/>
+                  <row>
+                     <cell>13. This Symbolization of Papiſts and Prelate-men, in the name and nature of Maſs and Liturgy, diſcovers how they conſpire againſt the truth, and thoſe who deſire to worſhip God in ſpirit and truth.</cell>
+                     <cell>
+                        <hi>P.</hi> 10.</cell>
+                  </row>
+                  <row>
+                     <cell>14. If this (our Liturgy) were the true worſhip of God, the Papiſts and the Prelatical crue would never endure it, but would ſtone, tear in pieces, impriſon, burn, baniſh, and kill, with all manner of cruelty, as they do and have done, thoſe that worſhip God according to his will.</cell>
+                     <cell>
+                        <hi>ibid.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>15. They muſt bear falſe witneſs in proclaiming under their hands by ſubſcription, that this ſtinking puddle is the River of God; when indeed it is the <hi>Euphrates</hi> of <hi>Babylon. Ibidem to the end, and almoſt to the middle of</hi>
+                     </cell>
+                     <cell>
+                        <hi>P.</hi> 11.</cell>
+                  </row>
+                  <row>
+                     <cell>16. If the Altars now er <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>cted were of God, they would be an abe<g ref="char:EOLhyphen"/>mination to the Prelates and their faction.</cell>
+                     <cell>
+                        <hi>ibid.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>17. It was great incogitancy (to ſpeak the leaſt) in our Reformers in King <hi>Edward</hi>'s days, to take a Monk from among the Canaanites, and putting a coat of Engliſh cloth upon it, to repreſent it, being an unclean beaſt, as a ſervice to the Lord. It is no better truly, then the excommunicate thing.</cell>
+                     <cell>
+                        <hi>P.</hi> 16.</cell>
+                  </row>
+                  <row>
+                     <cell>18. To cauſe Miniſters to ſubſcribe to it, is no leſs then treaſon againſt the high and mighty God</cell>
+                     <cell>
+                        <hi>Ch<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>p.</hi> 4. <hi>p.</hi> 22, 23.</cell>
+                  </row>
+                  <row>
+                     <cell>19. That Jewiſh, Popiſh Inſtitution of Churching-women, called <hi>Purification,</hi> and that baſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rdly piece of Confirmation</cell>
+                     <cell>
+                        <hi>P.</hi> 25.</cell>
+                  </row>
+                  <row>
+                     <cell>20. The Letany is not a ſtump or limb of <hi>Dagon,</hi> but the head of the Maſs-Book.</cell>
+                     <cell>
+                        <hi>Chap</hi> 5. <hi>p</hi> 26.</cell>
+                  </row>
+                  <row>
+                     <cell>21. Of this it may be truly ſaid, as one ſaid of the Phariſees ſin, tha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> it was either the ſin againſt the Holy Ghoſt, or elſe very nigh to it; ſo the Letany is either blaſphemy, or very nigh blaſphemy.</cell>
+                     <cell>
+                        <hi>P.</hi> 27.</cell>
+                  </row>
+                  <row>
+                     <cell>22. They call us Popiſh, Prelatical Prieſts; they ſay we fill their brains with the froth of that ſtuff, and their mouths with that con<g ref="char:EOLhyphen"/>fuſed noiſe of words, to ſhut them out from the ſoul-ſaving words, and the Word from them, and then the Prieſts bear rule and ty<g ref="char:EOLhyphen"/>rannize over them at pleaſure.</cell>
+                     <cell>
+                        <hi>Chap.</hi> 6. <hi>p.</hi> 31.</cell>
+                  </row>
+                  <row>
+                     <cell>23. This Letany is the very faſcinating Fardel of Tautologies and Battologies, beſides its other faults:</cell>
+                     <cell>
+                        <hi>P.</hi> 27.</cell>
+                  </row>
+                  <row>
+                     <cell>24. We have left out the Saints in our Liturgy, that was too groſs; but had the <hi>Laudenſes</hi> got their colours fixed, ere this the Letany had been flanked with this ſtuff.</cell>
+                     <cell>
+                        <hi>Chap.</hi> 5. <hi>p.</hi> 28.</cell>
+                  </row>
+                  <row>
+                     <cell>25. This Book ſettles blinde fellows over the people, &amp;c.</cell>
+                     <cell>
+                        <hi>Pag</hi> 32.
+<pb n="59" facs="tcp:102694:30"/> 
+                        <hi>Alſo pag.</hi> 33. <hi>&amp;</hi> 34. <hi>are wholly railings and revilings.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>26. As our Liturgian Maſs-mongers eſteem more of the Service then Preaching; ſo they juſtle out, and keep out Preaching with it.</cell>
+                     <cell>
+                        <hi>Chap.</hi> 7. <hi>p.</hi> 35.</cell>
+                  </row>
+                  <row>
+                     <cell>27. It is ordinary with the Journey-men Levites, and Letany Prieſts, to ſpin out all the time in making up that courſe thred of the Ser<g ref="char:EOLhyphen"/>vice that is allotted for Sermons; and this they do of malice, like the dog in the manger.</cell>
+                     <cell>
+                        <hi>P.</hi> 36.</cell>
+                  </row>
+                  <row>
+                     <cell>28, The Arſenical gobbets of that poiſonful Book which is worſe then the Iron furnace.</cell>
+                     <cell>
+                        <hi>P.</hi> 38. <hi>See alſo the reſt of that page, and p.</hi> 39, 40.</cell>
+                  </row>
+                  <row>
+                     <cell>29. We have had woful experience, how the Hierarchical crue endea<g ref="char:EOLhyphen"/>vor with tooth and nail, and therein worſe then the Manichees, to ſupplant Gods Law, of whom we might juſtly ſay with the Pro<g ref="char:EOLhyphen"/>phet, <hi>They have almoſt undone thy Law.</hi>
+                     </cell>
+                     <cell>
+                        <hi>Chap.</hi> 8. <hi>p.</hi> 45.</cell>
+                  </row>
+                  <row>
+                     <cell>30 Our Liturgy is the garment ſpotted with the fleſh, condemned by the Apoſtle <hi>Jude v.</hi> 23.</cell>
+                     <cell>
+                        <hi>P.</hi> 49. <hi>ſee p.</hi> 51.</cell>
+                  </row>
+                  <row>
+                     <cell>31. The Babylonians and Ed<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>mites, Prelates and Jeſuites under the favor of their Canons, got at length ſuch footing, and made ſuch head for Popery, Arminianiſm, &amp;c. that Religion and Polity, the two twins of Gods favor, were like <hi>Archimedes</hi> Tomb, ſo over<g ref="char:EOLhyphen"/>grown with thorns that it could not be found.</cell>
+                     <cell>
+                        <hi>Chap.</hi> 9. <hi>pag.</hi> 55. <hi>where ſee more.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>32. The Hierarchy and Service are reſembled already to Mother and childe; ſo may they be twins begotten and born of Pride and Superſtition, nurſed and brought up in the lap of Covetouſneſs; theſe twins are born together, live together, and muſt die together.</cell>
+                     <cell>
+                        <hi>p.</hi> 56.</cell>
+                  </row>
+                  <row>
+                     <cell>33. Above all put away the <hi>Aſhtaroth,</hi> the Service-Book, for that we may well call the very Caterpiller of Gods husbandry.</cell>
+                     <cell>
+                        <hi>p.</hi> 57.</cell>
+                  </row>
+                  <row>
+                     <cell>34. If all Popery and Popiſh inn<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>vations are to be oppoſed, then it will follow, that the Service-Book and Ceremonies are to be oppoſed.</cell>
+                     <cell>
+                        <hi>Chap.</hi> 10. <hi>p.</hi> 58.</cell>
+                  </row>
+                  <row>
+                     <cell>35. By the malignity of the Maſters of thoſe Ceremonies, the bulk was increaſed, and would have been like Crocodiles, who grow as long as they have a being, if you had not come in place, &amp;c.</cell>
+                     <cell>
+                        <hi>p.</hi> 59.</cell>
+                  </row>
+                  <row>
+                     <cell>36. That Service, Government, and Officers, being none of Chriſts, but the main evil, and cauſe of all evil in the three Nations, &amp;c.</cell>
+                     <cell>
+                        <hi>P.</hi> 60. <hi>where ſee more. And in the next page, they call it</hi> a Mock-Ordinance, or Will-worſhip of the Service-book.</cell>
+                  </row>
+                  <pb n="60" facs="tcp:102694:31" rendition="simple:additions"/>
+                  <row>
+                     <cell>37. The Surplice is called not the leaſt of all the idolatrous Rites and Ceremonies<g ref="char:punc">▪</g> yea worſe then a plague-ſore clou<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <hi>p.</hi> 61.</cell>
+                  </row>
+                  <row>
+                     <cell>38. They pray to caſt it out, and all the reſt, as carcaſſes of abomina<g ref="char:EOLhyphen"/>ble things; and withal to ſet the Maſters of Wardrobe on pack<g ref="char:EOLhyphen"/>ing with them.</cell>
+                     <cell>
+                        <hi>P.</hi> 63. <hi>ſee more there.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>39. For our Liturgy, what can be ſaid for form, or hath been ſaid, that cannot be ſaid for the Popiſh Liturgy, but the clothing of it in another tongue?</cell>
+                     <cell>
+                        <hi>Chap.</hi> 11. <hi>p.</hi> 68.</cell>
+                  </row>
+                  <row>
+                     <cell>40. Our Liturgy is ſaid to be the head-piece of all our evils.</cell>
+                     <cell>
+                        <hi>ibid.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <hi>Much more ſtuff of this kinde might have been collected, but I am to weary of this, and have even forced my ſelf to gather theſe things together, and ſo to preſent them to thy view, that thou maiſt ſee what temper and ſpirit theſe men are of, and ſo be no more deceived by their pretended holineſs, then by their un<g ref="char:EOLhyphen"/>chriſtian, uncharitable, uncivil, unſober and diſloyal Writings.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
